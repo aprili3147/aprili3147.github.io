@@ -3,12 +3,12 @@
 ## 1. 프로젝트 개요
 
 - **프로젝트 이름:** (프로젝트명을 입력하세요)
-- **개발 기간:** 2024년 3월 ~ 2024년 6월
+- **개발 기간:** 2025년 3월 ~ 2025년 6월
 - **팀원:** (팀원 이름 및 역할 기재)
 - **사용 기술:**
   - **백엔드:** Spring Boot, Spring MVC, Spring Data JPA
-  - **프론트엔드:** React, Vue, Thymeleaf 등
-  - **데이터베이스:** MySQL, PostgreSQL 등
+  - **프론트엔드:** React, Vue
+  - **데이터베이스:** MySQL
   - **버전 관리:** Git, GitHub
   - **배포 환경:** AWS, Heroku, Docker 등
 
