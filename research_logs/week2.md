@@ -1,10 +1,14 @@
-2주차 연구일지
+title: "2주차 연구일지"
+date: 2025-03-16
+categories: 개발일지
+
+📌 2주차 연구일지
 
 📅 기간: 2025년 3월 10일 ~ 3월 16일
 
 ✅ 진행한 작업
 
-기술 스택 확정
+📌 기술 스택 확정
 
 백엔드: Spring Boot (REST API, JPA, Spring Security)
 
@@ -16,7 +20,7 @@
 
 기타: OpenAI API, JWT 인증, Redis(캐싱)
 
-개발 환경 세팅
+🛠 개발 환경 세팅
 
 Spring Boot 프로젝트 초기화 및 Gradle 설정
 
@@ -26,9 +30,9 @@ application.yml 설정 (DB 접속 정보, JWT 설정 등)
 
 GitHub 레포지토리 생성 및 버전 관리 시작
 
-데이터베이스 설계 및 구축
+🗂 데이터베이스 설계 및 구축
 
-주요 테이블 설계(users, questions, answers, likes, tags, question_tags)
+주요 테이블 설계 (users, questions, answers, likes, tags, question_tags)
 
 MySQL에 테이블 생성 및 초기 데이터 삽입
 
@@ -36,13 +40,13 @@ ER 다이어그램 작성
 
 🔍 문제 및 해결
 
-Spring Boot & MySQL 연결 문제:
+🚨 Spring Boot & MySQL 연결 문제
 
 HikariCP 커넥션 풀 오류 발생 → application.yml에서 spring.datasource.hikari.maximum-pool-size 설정 조정하여 해결
 
-ERD 설계 시 고민했던 점:
+💡 ERD 설계 시 고민했던 점
 
-질문과 답변에 대한 좋아요(Like) 관계 설정 → likes 테이블에서 question_id와 answer_id를 각각 nullable로 두어 해결
+질문과 답변에 대한 좋아요(Like) 관계 설정 → likes 테이블에서 question_id와 answer_id를 각각 NULLABLE로 두어 해결
 
 📝 다음 주 계획 (3주차)
 
