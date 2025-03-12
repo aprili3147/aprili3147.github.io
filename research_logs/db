@@ -1,0 +1,75 @@
+📌 주요 테이블 설계
+1️⃣ users (사용자 테이블)
+사용자 정보를 저장하는 테이블입니다.
+
+CREATE TABLE users (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(50) NOT NULL UNIQUE,
+    email VARCHAR(100) NOT NULL UNIQUE,
+    password VARCHAR(255) NOT NULL,
+    profile_image VARCHAR(255), 
+    role ENUM('USER', 'ADMIN') DEFAULT 'USER',
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+2️⃣ questions (질문 테이블)
+사용자가 올린 질문을 저장하는 테이블입니다.
+
+CREATE TABLE questions (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    user_id BIGINT NOT NULL,
+    title VARCHAR(255) NOT NULL,
+    content TEXT NOT NULL,
+    views INT DEFAULT 0,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
+);
+
+3️⃣ answers (답변 테이블)
+각 질문에 대한 답변을 저장하는 테이블입니다.
+
+CREATE TABLE answers (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    question_id BIGINT NOT NULL,
+    user_id BIGINT NOT NULL,
+    content TEXT NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    FOREIGN KEY (question_id) REFERENCES questions(id) ON DELETE CASCADE,
+    FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
+);
+
+4️⃣ likes (좋아요 테이블)
+질문과 답변에 대한 좋아요를 저장하는 테이블입니다.
+
+CREATE TABLE likes (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    user_id BIGINT NOT NULL,
+    question_id BIGINT NULL,
+    answer_id BIGINT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE,
+    FOREIGN KEY (question_id) REFERENCES questions(id) ON DELETE CASCADE,
+    FOREIGN KEY (answer_id) REFERENCES answers(id) ON DELETE CASCADE
+);
+✔ 질문과 답변에 대해 좋아요를 저장할 수 있도록 question_id와 answer_id를 선택적으로 저장합니다.
+
+5️⃣ tags (태그 테이블)
+태그 목록을 저장하는 테이블입니다.
+
+CREATE TABLE tags (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(50) NOT NULL UNIQUE
+);
+
+6️⃣ question_tags (질문-태그 관계 테이블)
+각 질문이 여러 개의 태그를 가질 수 있도록 다대다(N:M) 관계를 구성합니다.
+
+CREATE TABLE question_tags (
+    question_id BIGINT NOT NULL,
+    tag_id BIGINT NOT NULL,
+    PRIMARY KEY (question_id, tag_id),
+    FOREIGN KEY (question_id) REFERENCES questions(id) ON DELETE CASCADE,
+    FOREIGN KEY (tag_id) REFERENCES tags(id) ON DELETE CASCADE
+);
