@@ -82,6 +82,7 @@
 | 9단계  | 추가 기능 및 테스트	 | 2주 |
 | 10단계 | 발표 | 2주 |
 | 11단계 | 보고서 작성 | 2주 |
+
 ---
 
 ## 5. 기대 효과
@@ -102,25 +103,13 @@
 
 ## 6. 참고 자료
 
-- [GitHub 협업 가이드]
-- (https://docs.github.com/en/github)
-
-- [BALSER 공식 Tool 튜토리얼 매뉴얼]
-- (https://www.baslerweb.com/ko-kr/learning/tutorials/)
-
-- [OpenCV Forum C++ 카테고리]
-- (https://forum.opencv.org/c/c/9)
-
-- [OpenCV 공식 문서]
-- (https://docs.opencv.org/)
-
-- [MFC 공식 문서]
-- (https://learn.microsoft.com/ko-kr/cpp/mfc/mfc-concepts?view=msvc-170)
-
-- MySql 공식 문서
-- (https://dev.mysql.com/doc/)
-
-- HBSolution 제공 프로젝트 PPT
+- [GitHub 협업 가이드](https://docs.github.com/en/github)
+- [Basler 공식 Tool 튜토리얼 매뉴얼](https://www.baslerweb.com/ko-kr/learning/tutorials/)
+- [OpenCV Forum C++ 카테고리](https://forum.opencv.org/c/c/9)
+- [OpenCV 공식 문서](https://docs.opencv.org/)
+- [MFC 공식 문서](https://learn.microsoft.com/ko-kr/cpp/mfc/mfc-concepts?view=msvc-170)
+- [MySQL 공식 문서](https://dev.mysql.com/doc/)
+- HBS Solution 제공 프로젝트 PPT
 
 
 ---
