@@ -1,0 +1,12 @@
+# 빌드 결과물 제외
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.suo
+*.log
+*.cache
+*.aps
+*.ncb
+.vs/
