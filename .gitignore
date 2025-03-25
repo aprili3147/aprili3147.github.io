@@ -1,12 +1,26 @@
-# 빌드 결과물 제외
-Debug/
-Release/
-*.obj
-*.pdb
-*.ilk
-*.suo
+*.sdf
+*.VC.db
+.vscode/
+
+# 빌드 결과물 제외 (추가)
+*.tlog
+*.idb
+*.exp
+*.ipch
+*.iobj
+*.ipdb
 *.log
-*.cache
-*.aps
-*.ncb
-.vs/
+*.opensdf
+
+# 중간 컴파일 파일
+*.pch
+*.manifest
+*.res
+*.tlb
+*.tli
+*.tlh
+
+# Windows 자동 생성 파일
+Thumbs.db
+ehthumbs.db
+desktop.ini
