@@ -35,11 +35,11 @@
 
 5. **Pattern matching(템플릿 처리)** 
     
-    **- Mark Detection을 위해 활용**
+- Mark Detection을 위해 활용
     
-    **- 입력 이미지에서 특정 패턴(템플릿)을 찾아 위치를 검출하는 과정**
+- 입력 이미지에서 특정 패턴(템플릿)을 찾아 위치를 검출하는 과정
     
-    - Template Matching 방식 (템플릿 매칭)
+- Template Matching 방식 (템플릿 매칭)
       - 기준이 되는 템플릿 이미지를 사용하여 입력 이미지에서 유사한 부분을 찾음.
 
 6. **Mark Detect (마크 검출) - Align 연산 및 측정을 위한 기준점을 찾기 위해 사용**
