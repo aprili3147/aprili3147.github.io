@@ -12,8 +12,6 @@
     - Albumentations 라이브러리를 이용하여 이미지 증강 적용
     - LabelImg를 활용하여 YOLO 포맷의 라벨링을 자동화
 
----
-
 - **Contour 기반 객체 탐지**
     - matchShapes() 함수를 사용하여 Contour 간 유사도 계산
     - 유사도가 임계값 이하인 Contour를 탐지 대상으로 설정 및 시각적 표시
