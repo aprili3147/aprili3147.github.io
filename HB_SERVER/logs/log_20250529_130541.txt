@@ -1,0 +1,8 @@
+[2025-05-29 13:05:41] [DEBUG] Create log file
+[2025-05-29 13:05:41] [ERROR] Failed to connect DB!
+[2025-05-29 13:05:41] [ERROR] Failed to execute FindAll query!
+[2025-05-29 13:05:43] [INFO] Listening Server. IP : 169.254.174.137, PORT : 123
+[2025-05-29 13:05:48] [INFO] Connect Client : 1582111168
+[2025-05-29 13:05:57] [DEBUG] Send Data Successful!
+[2025-05-29 13:11:26] [INFO] Disconnect Client : 1582179256
+[2025-05-29 13:11:28] [INFO] Shutting down the server programme

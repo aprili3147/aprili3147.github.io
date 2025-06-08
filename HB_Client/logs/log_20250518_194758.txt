@@ -1,0 +1,3 @@
+[2025-05-18 19:47:58] [Client Log] [DEBUG] Create log file
+[2025-05-18 19:47:58] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-05-18 19:48:12] [Client Log] [INFO] [Histogram Matching] Completed and updated preview

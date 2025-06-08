@@ -1,0 +1,3 @@
+[2025-04-29 23:42:31] [DEBUG] Create log file
+[2025-04-29 23:42:31] [DEBUG] DB Connect!
+[2025-04-29 23:42:33] [INFO] Shutting down the server programme

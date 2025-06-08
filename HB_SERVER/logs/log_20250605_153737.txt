@@ -1,0 +1,5 @@
+[2025-06-05 15:37:37] [DEBUG] Create log file
+[2025-06-05 15:37:37] [ERROR] Failed to connect DB!
+[2025-06-05 15:37:37] [ERROR] Failed to execute FindAll query!
+[2025-06-05 15:37:39] [ERROR] Failed to execute FindAll query!
+[2025-06-05 15:37:43] [INFO] Shutting down the server programme

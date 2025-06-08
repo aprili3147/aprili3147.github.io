@@ -1,0 +1,35 @@
+[2025-06-05 14:49:23] [Client Log] [DEBUG] Create log file
+[2025-06-05 14:49:23] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-06-05 14:49:26] [Client Log] [DEBUG] Receive Target size : 21631
+[2025-06-05 14:49:26] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-06-05 14:49:26] [Client Log] [DEBUG] Receive Server Data!
+[2025-06-05 14:49:34] [Client Log] [INFO]  camera grabbing start. 
+[2025-06-05 14:49:48] [Client Log] [DEBUG] bestBtightness: 13
+[2025-06-05 14:49:48] [Client Log] [DEBUG] similarity: 0.088677
+[2025-06-05 14:49:52] [Client Log] [DEBUG] Receive Target size : 21631
+[2025-06-05 14:49:52] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-06-05 14:49:52] [Client Log] [DEBUG] Receive Server Data!
+[2025-06-05 14:50:29] [Client Log] [DEBUG] bestBtightness: 28
+[2025-06-05 14:50:29] [Client Log] [DEBUG] similarity: 0.243875
+[2025-06-05 14:50:30] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 27
+[2025-06-05 14:50:38] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 26
+[2025-06-05 14:50:39] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 25
+[2025-06-05 14:50:39] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 24
+[2025-06-05 14:50:40] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 23
+[2025-06-05 14:50:40] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 22
+[2025-06-05 14:50:40] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 21
+[2025-06-05 14:50:40] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 20
+[2025-06-05 14:50:41] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 19
+[2025-06-05 14:50:41] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 18
+[2025-06-05 14:50:41] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 17
+[2025-06-05 14:50:42] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 16
+[2025-06-05 14:50:42] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 15
+[2025-06-05 14:50:42] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 14
+[2025-06-05 14:50:42] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 13
+[2025-06-05 14:50:42] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 12
+[2025-06-05 14:50:43] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 11
+[2025-06-05 14:50:43] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 10
+[2025-06-05 14:50:43] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 9
+[2025-06-05 14:50:43] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 8
+[2025-06-05 14:50:45] [Client Log] [DEBUG] Bright [increase], Current Brightness : 9
+[2025-06-05 14:50:46] [Client Log] [INFO] Shutting down the client programme

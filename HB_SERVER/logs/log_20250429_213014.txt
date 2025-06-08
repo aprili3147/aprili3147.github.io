@@ -1,0 +1,24 @@
+[2025-04-29 21:30:14] [DEBUG] Create log file
+[2025-04-29 21:30:14] [DEBUG] DB Connect!
+[2025-04-29 21:30:17] [INFO] Listening Server. IP : 192.168.111.1, PORT : 123
+[2025-04-29 21:30:26] [INFO] Connect Client : -1368970464
+[2025-04-29 21:30:45] [DEBUG] Send Data Successful!
+[2025-04-29 21:31:55] [DEBUG] Receive Before size : 307185
+[2025-04-29 21:31:55] [DEBUG] Receive After size : 307185
+[2025-04-29 21:31:55] [DEBUG] Receive Log size : 506
+[2025-04-29 21:31:55] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-29 21:30:26] [Client Log] [DEBUG] Create log file
+[2025-04-29 21:30:26] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-29 21:30:45] [Client Log] [DEBUG] Receive Target size : 317733
+[2025-04-29 21:30:45] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-04-29 21:30:45] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-29 21:31:05] [Client Log] [DEBUG] Before image upload
+[2025-04-29 21:31:10] [Client Log] [DEBUG] Contour Matching execution time: 73.50 ms
+
+**********************
+
+[2025-04-29 21:32:17] [INFO] DB Save Success!
+[2025-04-29 21:33:01] [INFO] Disconnect Client : -1368350888
+[2025-04-29 21:33:41] [INFO] Shutting down the server programme

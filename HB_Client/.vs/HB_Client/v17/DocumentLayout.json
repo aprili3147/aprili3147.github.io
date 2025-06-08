@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MFC\\HB_Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|C:\\MFC\\HB_Client\\MarkDetector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|solutionrelative:MarkDetector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|C:\\MFC\\HB_Client\\DlgMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|solutionrelative:DlgMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|C:\\MFC\\HB_Client\\DlgMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|solutionrelative:DlgMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|C:\\MFC\\HB_Client\\CameraManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|solutionrelative:CameraManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|C:\\MFC\\HB_Client\\LightControlBySerial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|solutionrelative:LightControlBySerial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|C:\\MFC\\HB_Client\\HB_Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|solutionrelative:HB_Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|C:\\MFC\\HB_Client\\Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|solutionrelative:Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|C:\\MFC\\HB_Client\\HB_ClientDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|solutionrelative:HB_ClientDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|C:\\MFC\\HB_Client\\ClientSocket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|solutionrelative:ClientSocket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|C:\\MFC\\HB_Client\\LightControlBySerial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|solutionrelative:LightControlBySerial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|C:\\MFC\\HB_Client\\ClientSocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|solutionrelative:ClientSocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|C:\\MFC\\HB_Client\\HB_ClientDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|solutionrelative:HB_ClientDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wkdgu\\OneDrive\\Desktop\\\uC790\uB8CC \uBAA8\uC74C\uC9D1\\\uCD5C\uC885\uCF54\uB4DC_HBsolution\\Server Client Template matching\\Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|C:\\MFC\\HB_Client\\Logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|solutionrelative:Logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|C:\\MFC\\HB_Client\\MarkDetector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|solutionrelative:MarkDetector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|C:\\MFC\\HB_Client\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|solutionrelative:pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|C:\\MFC\\HB_Client\\HBClient.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u00A2 2$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|solutionrelative:HBClient.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u00A2 2$  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|C:\\MFC\\HB_Client\\HBClient.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       $ \u00A4 2$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|solutionrelative:HBClient.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       $ \u00A4 2$  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|C:\\MFC\\HB_Client\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06D47FEF-2965-431F-9594-CA57F5EA0DC1}|HB_Client.vcxproj|solutionrelative:pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wkdgu\\OneDrive\\Desktop\\hbs\\HB_Client\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 471,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DlgMain.cpp",
+              "DocumentMoniker": "C:\\MFC\\HB_Client\\DlgMain.cpp",
+              "RelativeDocumentMoniker": "DlgMain.cpp",
+              "ToolTip": "C:\\MFC\\HB_Client\\DlgMain.cpp",
+              "RelativeToolTip": "DlgMain.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAANsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T14:21:53.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LightControlBySerial.cpp",
+              "DocumentMoniker": "C:\\MFC\\HB_Client\\LightControlBySerial.cpp",
+              "RelativeDocumentMoniker": "LightControlBySerial.cpp",
+              "ToolTip": "C:\\MFC\\HB_Client\\LightControlBySerial.cpp",
+              "RelativeToolTip": "LightControlBySerial.cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T10:55:57.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DlgMain.h",
+              "DocumentMoniker": "C:\\MFC\\HB_Client\\DlgMain.h",
+              "RelativeDocumentMoniker": "DlgMain.h",
+              "ToolTip": "C:\\MFC\\HB_Client\\DlgMain.h",
+              "RelativeToolTip": "DlgMain.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwBwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-15T13:51:44.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraManager.cpp",
+              "DocumentMoniker": "C:\\MFC\\HB_Client\\CameraManager.cpp",
+              "RelativeDocumentMoniker": "CameraManager.cpp",
+              "ToolTip": "C:\\MFC\\HB_Client\\CameraManager.cpp",
+              "RelativeToolTip": "CameraManager.cpp",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAhwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-15T14:00:54.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HB_Client.cpp",
+              "DocumentMoniker": "C:\\MFC\\HB_Client\\HB_Client.cpp",
+              "RelativeDocumentMoniker": "HB_Client.cpp",
+              "ToolTip": "C:\\MFC\\HB_Client\\HB_Client.cpp",
+              "RelativeToolTip": "HB_Client.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T14:21:53.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HB_ClientDlg.cpp",
+              "DocumentMoniker": "C:\\MFC\\HB_Client\\HB_ClientDlg.cpp",
+              "RelativeDocumentMoniker": "HB_ClientDlg.cpp",
+              "ToolTip": "C:\\MFC\\HB_Client\\HB_ClientDlg.cpp",
+              "RelativeToolTip": "HB_ClientDlg.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAASwHAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T14:21:53.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarkDetector.cpp",
+              "DocumentMoniker": "C:\\MFC\\HB_Client\\MarkDetector.cpp",
+              "RelativeDocumentMoniker": "MarkDetector.cpp",
+              "ToolTip": "C:\\MFC\\HB_Client\\MarkDetector.cpp",
+              "RelativeToolTip": "MarkDetector.cpp",
+              "ViewState": "AgIAAAMBAAAAAAAAAADgvxIBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T14:21:52.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logger.cpp",
+              "DocumentMoniker": "C:\\MFC\\HB_Client\\Logger.cpp",
+              "RelativeDocumentMoniker": "Logger.cpp",
+              "ToolTip": "C:\\MFC\\HB_Client\\Logger.cpp",
+              "RelativeToolTip": "Logger.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T14:21:53.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientSocket.cpp",
+              "DocumentMoniker": "C:\\MFC\\HB_Client\\ClientSocket.cpp",
+              "RelativeDocumentMoniker": "ClientSocket.cpp",
+              "ToolTip": "C:\\MFC\\HB_Client\\ClientSocket.cpp",
+              "RelativeToolTip": "ClientSocket.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T14:21:53.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LightControlBySerial.h",
+              "DocumentMoniker": "C:\\MFC\\HB_Client\\LightControlBySerial.h",
+              "RelativeDocumentMoniker": "LightControlBySerial.h",
+              "ToolTip": "C:\\MFC\\HB_Client\\LightControlBySerial.h",
+              "RelativeToolTip": "LightControlBySerial.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T15:20:10.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientSocket.h",
+              "DocumentMoniker": "C:\\MFC\\HB_Client\\ClientSocket.h",
+              "RelativeDocumentMoniker": "ClientSocket.h",
+              "ToolTip": "C:\\MFC\\HB_Client\\ClientSocket.h",
+              "RelativeToolTip": "ClientSocket.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-11T14:21:53.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HB_ClientDlg.h",
+              "DocumentMoniker": "C:\\MFC\\HB_Client\\HB_ClientDlg.h",
+              "RelativeDocumentMoniker": "HB_ClientDlg.h",
+              "ToolTip": "C:\\MFC\\HB_Client\\HB_ClientDlg.h",
+              "RelativeToolTip": "HB_ClientDlg.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-11T14:21:53.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HBClient.rc - IDD_MAIN_DIALOG - Dialog",
+              "DocumentMoniker": "C:\\MFC\\HB_Client\\HBClient.rc",
+              "RelativeDocumentMoniker": "HBClient.rc",
+              "ToolTip": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\hbs\\openCV_project\\HB_Client\\HBClient.rc - IDD_MAIN_DIALOG - Dialog",
+              "RelativeToolTip": "..\\..\\Users\\wkdgu\\OneDrive\\Desktop\\hbs\\openCV_project\\HB_Client\\HBClient.rc - IDD_MAIN_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-11T14:21:53.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\\uC790\uB8CC \uBAA8\uC74C\uC9D1\\\uCD5C\uC885\uCF54\uB4DC_HBsolution\\Server Client Template matching\\Client.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\wkdgu\\OneDrive\\Desktop\\\uC790\uB8CC \uBAA8\uC74C\uC9D1\\\uCD5C\uC885\uCF54\uB4DC_HBsolution\\Server Client Template matching\\Client.cs",
+              "ToolTip": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\\uC790\uB8CC \uBAA8\uC74C\uC9D1\\\uCD5C\uC885\uCF54\uB4DC_HBsolution\\Server Client Template matching\\Client.cs",
+              "RelativeToolTip": "..\\..\\Users\\wkdgu\\OneDrive\\Desktop\\\uC790\uB8CC \uBAA8\uC74C\uC9D1\\\uCD5C\uC885\uCF54\uB4DC_HBsolution\\Server Client Template matching\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:39:58.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MarkDetector.h",
+              "DocumentMoniker": "C:\\MFC\\HB_Client\\MarkDetector.h",
+              "RelativeDocumentMoniker": "MarkDetector.h",
+              "ToolTip": "C:\\MFC\\HB_Client\\MarkDetector.h",
+              "RelativeToolTip": "MarkDetector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-11T14:21:53.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HBClient.rc - IDR_MENU1 - Menu",
+              "DocumentMoniker": "C:\\MFC\\HB_Client\\HBClient.rc",
+              "RelativeDocumentMoniker": "HBClient.rc",
+              "ToolTip": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\hbs\\openCV_project\\HB_Client\\HBClient.rc - IDR_MENU1 - Menu",
+              "RelativeToolTip": "..\\..\\Users\\wkdgu\\OneDrive\\Desktop\\hbs\\openCV_project\\HB_Client\\HBClient.rc - IDR_MENU1 - Menu",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-11T14:21:53.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\MFC\\HB_Client\\pch.h",
+              "RelativeDocumentMoniker": "pch.h",
+              "ToolTip": "C:\\MFC\\HB_Client\\pch.h",
+              "RelativeToolTip": "pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-11T14:21:53.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Logger.h",
+              "DocumentMoniker": "C:\\MFC\\HB_Client\\Logger.h",
+              "RelativeDocumentMoniker": "Logger.h",
+              "ToolTip": "C:\\MFC\\HB_Client\\Logger.h",
+              "RelativeToolTip": "Logger.h",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-11T14:21:53.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\MFC\\HB_Client\\pch.cpp",
+              "RelativeDocumentMoniker": "pch.cpp",
+              "ToolTip": "C:\\MFC\\HB_Client\\pch.cpp",
+              "RelativeToolTip": "pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T14:21:53.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "framework.h",
+              "DocumentMoniker": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\hbs\\HB_Client\\framework.h",
+              "RelativeDocumentMoniker": "..\\..\\Users\\wkdgu\\OneDrive\\Desktop\\hbs\\HB_Client\\framework.h",
+              "ToolTip": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\hbs\\HB_Client\\framework.h",
+              "RelativeToolTip": "..\\..\\Users\\wkdgu\\OneDrive\\Desktop\\hbs\\HB_Client\\framework.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-15T04:33:38.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

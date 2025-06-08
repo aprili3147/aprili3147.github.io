@@ -1,0 +1,23 @@
+[2025-05-26 21:28:07] [DEBUG] Create log file
+[2025-05-26 21:28:07] [DEBUG] DB Connect!
+[2025-05-26 21:28:12] [INFO] Listening Server. IP : 192.168.111.1, PORT : 123
+[2025-05-26 21:28:13] [INFO] Connect Client : 314181584
+[2025-05-26 21:28:17] [DEBUG] Send Data Successful!
+[2025-05-26 21:28:26] [DEBUG] Receive Before size : 179794
+[2025-05-26 21:28:26] [DEBUG] Receive After size : 160923
+[2025-05-26 21:28:26] [DEBUG] Receive Log size : 532
+[2025-05-26 21:28:26] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-05-26 21:28:13] [Client Log] [DEBUG] Create log file
+[2025-05-26 21:28:13] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-05-26 21:28:17] [Client Log] [DEBUG] Receive Target size : 56029
+[2025-05-26 21:28:17] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-05-26 21:28:17] [Client Log] [DEBUG] Receive Server Data!
+[2025-05-26 21:28:22] [Client Log] [DEBUG] Before image upload
+[2025-05-26 21:28:23] [Client Log] [DEBUG] Edge Matching execution time: 70.49 ms, 
+Matching similarity: 17.01%
+
+**********************
+
+[2025-05-26 21:28:39] [INFO] Shutting down the server programme

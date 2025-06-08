@@ -1,0 +1,22 @@
+[2025-05-31 17:21:45] [DEBUG] Create log file
+[2025-05-31 17:21:45] [DEBUG] DB Connect!
+[2025-05-31 17:21:48] [INFO] Listening Server. IP : 192.168.111.1, PORT : 123
+[2025-05-31 17:21:51] [INFO] Connect Client : 1716093472
+[2025-05-31 17:22:21] [INFO] Disconnect Client : 1716083224
+[2025-05-31 17:22:21] [INFO] Disconnect Client : 1716083224
+[2025-05-31 17:22:28] [INFO] Connect Client : 1716093472
+[2025-05-31 17:22:47] [INFO] Disconnect Client : 1716082904
+[2025-05-31 17:22:47] [INFO] Disconnect Client : 1716082904
+[2025-05-31 17:23:06] [INFO] Connect Client : 1716095040
+[2025-05-31 17:23:16] [INFO] Disconnect Client : 1716082904
+[2025-05-31 17:23:16] [INFO] Disconnect Client : 1716082904
+[2025-05-31 17:26:01] [INFO] Connect Client : 1716094928
+[2025-05-31 17:26:18] [INFO] Disconnect Client : 1716081944
+[2025-05-31 17:26:18] [INFO] Disconnect Client : 1716081944
+[2025-05-31 17:27:02] [INFO] Connect Client : 1716092912
+[2025-05-31 17:27:13] [INFO] Disconnect Client : 1716083224
+[2025-05-31 17:27:13] [INFO] Disconnect Client : 1716083224
+[2025-05-31 17:27:22] [INFO] Connect Client : 1716094704
+[2025-05-31 17:27:28] [INFO] Disconnect Client : 1716081944
+[2025-05-31 17:27:28] [INFO] Disconnect Client : 1716081944
+[2025-05-31 17:27:47] [INFO] Shutting down the server programme

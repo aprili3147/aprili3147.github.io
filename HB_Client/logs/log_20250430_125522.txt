@@ -1,0 +1,10 @@
+[2025-04-30 12:55:22] [Client Log] [DEBUG] Create log file
+[2025-04-30 12:55:22] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-30 12:55:26] [Client Log] [DEBUG] Before image upload
+[2025-04-30 12:55:30] [Client Log] [DEBUG] Receive Target size : 2864
+[2025-04-30 12:55:30] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-04-30 12:55:31] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-30 12:55:34] [Client Log] [DEBUG] Edge Matching execution time: 19.43 ms
+[2025-04-30 12:55:37] [Client Log] [DEBUG] Contour Matching execution time: 6.32 ms
+[2025-04-30 12:57:32] [Client Log] [DEBUG] Edge Matching execution time: 15.80 ms
+[2025-04-30 12:59:02] [Client Log] [INFO] Shutting down the client programme

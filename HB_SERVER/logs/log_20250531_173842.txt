@@ -1,0 +1,9 @@
+[2025-05-31 17:38:42] [DEBUG] Create log file
+[2025-05-31 17:38:42] [DEBUG] DB Connect!
+[2025-05-31 17:38:47] [INFO] Listening Server. IP : 192.168.111.1, PORT : 123
+[2025-05-31 17:38:49] [INFO] Connect Client : 000002A9627877C0
+[2025-05-31 17:38:57] [INFO] Disconnect Client : 000002A965AAFC78
+[2025-05-31 17:38:59] [INFO] Connect Client : 000002A962787C90
+[2025-05-31 17:39:03] [WARNING] Client 000002A962787D70 attempted to connect, but the server is full. Connection closed.
+[2025-05-31 17:39:08] [INFO] Disconnect Client : 000002A965AAE4B8
+[2025-05-31 17:39:10] [INFO] Shutting down the server programme

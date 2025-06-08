@@ -1,0 +1,12 @@
+[2025-04-23 09:22:56] [Client Log] [DEBUG] Create log file
+[2025-04-23 09:22:56] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-23 09:23:02] [Client Log] [DEBUG] Receive Target size : 2900
+[2025-04-23 09:23:02] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-04-23 09:23:02] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-23 09:23:18] [Client Log] [DEBUG] Edge Matching execution time: 39.94 ms
+[2025-04-23 09:23:23] [Client Log] [DEBUG] Contour Matching execution time: 13.49 ms
+[2025-04-23 09:23:36] [Client Log] [DEBUG] Edge Matching execution time: 32.37 ms
+[2025-04-23 09:23:41] [Client Log] [DEBUG] Contour Matching execution time: 13.27 ms
+[2025-04-23 09:23:46] [Client Log] [DEBUG] Send data to server successful
+[2025-04-23 09:23:57] [Client Log] [DEBUG] Server Disconnect!
+[2025-04-23 09:24:01] [Client Log] [INFO] Shutting down the client programme

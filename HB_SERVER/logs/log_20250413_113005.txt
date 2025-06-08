@@ -1,0 +1,20 @@
+[2025-04-13 11:30:30] [INFO] Listening Server. IP : 192.168.77.1, PORT : 123
+[2025-04-13 11:30:32] [INFO] Connect Client : 582862560
+[2025-04-13 11:30:40] [DEBUG] Send Data Successful!
+[2025-04-13 11:30:42] [DEBUG] Receive Before size : 2698
+[2025-04-13 11:30:42] [DEBUG] Receive After size : 2698
+[2025-04-13 11:30:42] [DEBUG] Receive Log size : 344
+[2025-04-13 11:30:42] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-13 11:30:32] [Client Log] [DEBUG] Create log file
+[2025-04-13 11:30:32] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-13 11:30:40] [Client Log] [DEBUG] Receive Target size : 2698
+[2025-04-13 11:30:40] [Client Log] [DEBUG] Receive Option : Num 1
+[2025-04-13 11:30:40] [Client Log] [DEBUG] Receive Server Data!
+
+**********************
+
+[2025-04-13 11:30:45] [INFO] DB Save Success!
+[2025-04-13 11:31:24] [INFO] Disconnect Client : 582879176
+[2025-04-13 11:31:25] [INFO] Shutting down the server programme

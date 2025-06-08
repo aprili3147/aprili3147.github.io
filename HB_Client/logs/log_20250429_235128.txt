@@ -1,0 +1,11 @@
+[2025-04-29 23:51:28] [Client Log] [DEBUG] Create log file
+[2025-04-29 23:51:28] [Client Log] [WARNING] Connection refused: The server is not running or the port is closed.
+[2025-04-29 23:51:31] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-29 23:51:37] [Client Log] [DEBUG] Receive Target size : 2698
+[2025-04-29 23:51:37] [Client Log] [DEBUG] Receive Option : Match_YOLO
+[2025-04-29 23:51:37] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-29 23:51:44] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:51:49] [Client Log] [DEBUG] YOLO Matching execution time: 1888.14 ms
+[2025-04-29 23:51:51] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:52:14] [Client Log] [DEBUG] Server Disconnect!
+[2025-04-29 23:52:16] [Client Log] [INFO] Shutting down the client programme

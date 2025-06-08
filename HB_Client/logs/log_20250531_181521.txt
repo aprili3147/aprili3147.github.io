@@ -1,0 +1,22 @@
+[2025-05-31 18:15:21] [Client Log] [DEBUG] Create log file
+[2025-05-31 18:15:21] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-05-31 18:15:28] [Client Log] [DEBUG] Receive Target size : 12777
+[2025-05-31 18:15:28] [Client Log] [DEBUG] Receive Option : Match_Contours
+[2025-05-31 18:15:28] [Client Log] [DEBUG] Receive Server Data!
+[2025-05-31 18:15:35] [Client Log] [DEBUG] Before image upload
+[2025-05-31 18:15:37] [Client Log] [DEBUG] Contour Matching execution time: 22.44 ms, 
+Rotation Check: OFF, 
+Contour Similarity: 54.34%
+[2025-05-31 18:15:41] [Client Log] [DEBUG] Contour Matching execution time: 51.59 ms, 
+Rotation Check: ON, 
+Contour Similarity: 99.24%
+[2025-05-31 18:15:52] [Client Log] [DEBUG] Contour Matching execution time: 56.04 ms, 
+Rotation Check: ON, 
+Contour Similarity: 99.24%
+[2025-05-31 18:15:55] [Client Log] [DEBUG] Contour Matching execution time: 9.25 ms, 
+Rotation Check: OFF, 
+Contour Similarity: 54.34%
+[2025-05-31 18:16:02] [Client Log] [DEBUG] YOLO Matching execution time: 1245.46 ms
+[2025-05-31 18:16:02] [Client Log] [DEBUG] Send data to server successful
+[2025-05-31 18:16:25] [Client Log] [DEBUG] Server Disconnect!
+[2025-05-31 18:16:26] [Client Log] [INFO] Shutting down the client programme

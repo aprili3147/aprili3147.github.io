@@ -1,0 +1,6 @@
+[2025-04-16 13:18:33] [Client Log] [DEBUG] Create log file
+[2025-04-16 13:18:33] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-16 13:19:10] [Client Log] [DEBUG] Receive Target size : 2864
+[2025-04-16 13:19:10] [Client Log] [DEBUG] Receive Option : Num 1
+[2025-04-16 13:19:10] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-16 13:21:04] [Client Log] [INFO] Shutting down the client programme

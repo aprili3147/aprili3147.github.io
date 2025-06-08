@@ -1,0 +1,156 @@
+[2025-04-29 23:22:05] [DEBUG] Create log file
+[2025-04-29 23:22:05] [DEBUG] DB Connect!
+[2025-04-29 23:22:06] [INFO] Listening Server. IP : 192.168.111.1, PORT : 123
+[2025-04-29 23:22:14] [INFO] Connect Client : -1433543536
+[2025-04-29 23:22:21] [DEBUG] Send Data Successful!
+[2025-04-29 23:22:32] [DEBUG] Receive Before size : 305484
+[2025-04-29 23:22:32] [DEBUG] Receive After size : 305484
+[2025-04-29 23:22:32] [DEBUG] Receive Log size : 412
+[2025-04-29 23:22:32] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-29 23:22:14] [Client Log] [DEBUG] Create log file
+[2025-04-29 23:22:14] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-29 23:22:21] [Client Log] [DEBUG] Receive Target size : 2698
+[2025-04-29 23:22:21] [Client Log] [DEBUG] Receive Option : Match_YOLO
+[2025-04-29 23:22:21] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-29 23:22:26] [Client Log] [DEBUG] Before image upload
+
+**********************
+
+[2025-04-29 23:22:52] [DEBUG] Receive Before size : 25969
+[2025-04-29 23:22:52] [DEBUG] Receive After size : 305484
+[2025-04-29 23:22:52] [DEBUG] Receive Log size : 549
+[2025-04-29 23:22:52] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-29 23:22:14] [Client Log] [DEBUG] Create log file
+[2025-04-29 23:22:14] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-29 23:22:21] [Client Log] [DEBUG] Receive Target size : 2698
+[2025-04-29 23:22:21] [Client Log] [DEBUG] Receive Option : Match_YOLO
+[2025-04-29 23:22:21] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-29 23:22:26] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:22:32] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:22:50] [Client Log] [DEBUG] Before image upload
+
+**********************
+
+[2025-04-29 23:22:59] [DEBUG] Receive Before size : 25969
+[2025-04-29 23:22:59] [DEBUG] Receive After size : 25969
+[2025-04-29 23:22:59] [DEBUG] Receive Log size : 623
+[2025-04-29 23:22:59] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-29 23:22:14] [Client Log] [DEBUG] Create log file
+[2025-04-29 23:22:14] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-29 23:22:21] [Client Log] [DEBUG] Receive Target size : 2698
+[2025-04-29 23:22:21] [Client Log] [DEBUG] Receive Option : Match_YOLO
+[2025-04-29 23:22:21] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-29 23:22:26] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:22:32] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:22:50] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:22:52] [Client Log] [DEBUG] Send data to server successful
+
+**********************
+
+[2025-04-29 23:23:15] [DEBUG] Receive Before size : 306089
+[2025-04-29 23:23:15] [DEBUG] Receive After size : 25969
+[2025-04-29 23:23:15] [DEBUG] Receive Log size : 760
+[2025-04-29 23:23:15] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-29 23:22:14] [Client Log] [DEBUG] Create log file
+[2025-04-29 23:22:14] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-29 23:22:21] [Client Log] [DEBUG] Receive Target size : 2698
+[2025-04-29 23:22:21] [Client Log] [DEBUG] Receive Option : Match_YOLO
+[2025-04-29 23:22:21] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-29 23:22:26] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:22:32] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:22:50] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:22:52] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:22:59] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:23:15] [Client Log] [DEBUG] Before image upload
+
+**********************
+
+[2025-04-29 23:23:31] [INFO] Disconnect Client : -1437422248
+[2025-04-29 23:24:21] [INFO] Connect Client : -1435714736
+[2025-04-29 23:24:24] [DEBUG] Send Data Successful!
+[2025-04-29 23:24:33] [DEBUG] Receive Before size : 306089
+[2025-04-29 23:24:33] [DEBUG] Receive After size : 305484
+[2025-04-29 23:24:33] [DEBUG] Receive Log size : 412
+[2025-04-29 23:24:33] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-29 23:24:21] [Client Log] [DEBUG] Create log file
+[2025-04-29 23:24:21] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-29 23:24:24] [Client Log] [DEBUG] Receive Target size : 2698
+[2025-04-29 23:24:24] [Client Log] [DEBUG] Receive Option : Match_YOLO
+[2025-04-29 23:24:24] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-29 23:24:28] [Client Log] [DEBUG] Before image upload
+
+**********************
+
+[2025-04-29 23:25:27] [DEBUG] Receive Before size : 317733
+[2025-04-29 23:25:27] [DEBUG] Receive After size : 307185
+[2025-04-29 23:25:27] [DEBUG] Receive Log size : 549
+[2025-04-29 23:25:27] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-29 23:24:21] [Client Log] [DEBUG] Create log file
+[2025-04-29 23:24:21] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-29 23:24:24] [Client Log] [DEBUG] Receive Target size : 2698
+[2025-04-29 23:24:24] [Client Log] [DEBUG] Receive Option : Match_YOLO
+[2025-04-29 23:24:24] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-29 23:24:28] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:24:33] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:25:22] [Client Log] [DEBUG] Before image upload
+
+**********************
+
+[2025-04-29 23:25:44] [DEBUG] Receive Before size : 306089
+[2025-04-29 23:25:44] [DEBUG] Receive After size : 305484
+[2025-04-29 23:25:44] [DEBUG] Receive Log size : 686
+[2025-04-29 23:25:44] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-29 23:24:21] [Client Log] [DEBUG] Create log file
+[2025-04-29 23:24:21] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-29 23:24:24] [Client Log] [DEBUG] Receive Target size : 2698
+[2025-04-29 23:24:24] [Client Log] [DEBUG] Receive Option : Match_YOLO
+[2025-04-29 23:24:24] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-29 23:24:28] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:24:33] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:25:22] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:25:27] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:25:40] [Client Log] [DEBUG] Before image upload
+
+**********************
+
+[2025-04-29 23:25:54] [INFO] DB Save Success!
+[2025-04-29 23:26:01] [DEBUG] DELETE data id : 99
+[2025-04-29 23:26:07] [DEBUG] DELETE data id : 82
+[2025-04-29 23:26:09] [DEBUG] DELETE data id : 83
+[2025-04-29 23:26:11] [DEBUG] DELETE data id : 85
+[2025-04-29 23:26:12] [DEBUG] DELETE data id : 86
+[2025-04-29 23:26:34] [INFO] Disconnect Client : -1434937672
+[2025-04-29 23:28:57] [INFO] Connect Client : -1434019152
+[2025-04-29 23:29:04] [DEBUG] Send Data Successful!
+[2025-04-29 23:29:19] [DEBUG] Receive Before size : 282353
+[2025-04-29 23:29:19] [DEBUG] Receive After size : 283228
+[2025-04-29 23:29:19] [DEBUG] Receive Log size : 412
+[2025-04-29 23:29:19] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-29 23:28:57] [Client Log] [DEBUG] Create log file
+[2025-04-29 23:28:57] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-29 23:29:04] [Client Log] [DEBUG] Receive Target size : 2864
+[2025-04-29 23:29:04] [Client Log] [DEBUG] Receive Option : Match_YOLO
+[2025-04-29 23:29:04] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-29 23:29:09] [Client Log] [DEBUG] Before image upload
+
+**********************
+
+[2025-04-29 23:29:24] [INFO] DB Save Success!
+[2025-04-29 23:32:20] [INFO] Disconnect Client : -1434938952
+[2025-04-29 23:33:29] [INFO] Shutting down the server programme

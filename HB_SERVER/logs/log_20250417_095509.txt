@@ -1,0 +1,53 @@
+[2025-04-17 09:55:09] [DEBUG] Create log file
+[2025-04-17 09:55:09] [DEBUG] DB Connect!
+[2025-04-17 09:55:13] [INFO] Listening Server. IP : 192.168.111.1, PORT : 123
+[2025-04-17 10:12:26] [INFO] Connect Client : -431783712
+[2025-04-17 10:12:40] [DEBUG] Send Data Successful!
+[2025-04-17 10:13:18] [INFO] Disconnect Client : -483869416
+[2025-04-17 10:14:07] [INFO] Connect Client : -369747024
+[2025-04-17 10:14:10] [DEBUG] Send Data Successful!
+[2025-04-17 10:15:27] [INFO] Disconnect Client : -370563096
+[2025-04-17 10:15:38] [INFO] Connect Client : -369746016
+[2025-04-17 10:15:45] [DEBUG] Send Data Successful!
+[2025-04-17 10:16:38] [INFO] Disconnect Client : -370561176
+[2025-04-17 10:20:18] [INFO] Connect Client : -439045888
+[2025-04-17 10:20:21] [DEBUG] Send Data Successful!
+[2025-04-17 10:20:32] [INFO] Disconnect Client : -369082664
+[2025-04-17 10:20:37] [INFO] Connect Client : -439047792
+[2025-04-17 10:20:46] [DEBUG] Send Data Successful!
+[2025-04-17 10:20:54] [DEBUG] Receive Before size : 25969
+[2025-04-17 10:20:54] [DEBUG] Receive After size : 20421
+[2025-04-17 10:20:54] [DEBUG] Receive Log size : 344
+[2025-04-17 10:20:54] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-17 10:20:37] [Client Log] [DEBUG] Create log file
+[2025-04-17 10:20:37] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-17 10:20:46] [Client Log] [DEBUG] Receive Target size : 2900
+[2025-04-17 10:20:46] [Client Log] [DEBUG] Receive Option : Num 1
+[2025-04-17 10:20:46] [Client Log] [DEBUG] Receive Server Data!
+
+**********************
+
+[2025-04-17 10:22:12] [INFO] DB Save Success!
+[2025-04-17 10:26:54] [INFO] Disconnect Client : -369082344
+[2025-04-17 10:27:12] [INFO] Connect Client : -439046784
+[2025-04-17 10:27:21] [DEBUG] Send Data Successful!
+[2025-04-17 10:27:55] [DEBUG] Receive Before size : 25969
+[2025-04-17 10:27:55] [DEBUG] Receive After size : 17338
+[2025-04-17 10:27:55] [DEBUG] Receive Log size : 344
+[2025-04-17 10:27:55] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-17 10:27:12] [Client Log] [DEBUG] Create log file
+[2025-04-17 10:27:12] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-17 10:27:21] [Client Log] [DEBUG] Receive Target size : 3289
+[2025-04-17 10:27:22] [Client Log] [DEBUG] Receive Option : Num 1
+[2025-04-17 10:27:22] [Client Log] [DEBUG] Receive Server Data!
+
+**********************
+
+[2025-04-17 10:30:27] [INFO] Disconnect Client : -369081384
+[2025-04-17 10:30:46] [INFO] Connect Client : -371273040
+[2025-04-17 10:31:03] [DEBUG] Send Data Successful!
+[2025-04-17 10:31:38] [INFO] Shutting down the server programme

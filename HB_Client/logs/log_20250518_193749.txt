@@ -1,0 +1,2 @@
+[2025-05-18 19:37:49] [Client Log] [DEBUG] Create log file
+[2025-05-18 19:37:49] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123

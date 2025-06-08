@@ -1,0 +1,39 @@
+[2025-05-31 17:51:37] [DEBUG] Create log file
+[2025-05-31 17:51:37] [DEBUG] DB Connect!
+[2025-05-31 17:51:40] [INFO] Listening Server. IP : 192.168.111.1, PORT : 123
+[2025-05-31 17:51:45] [INFO] Connect Client : 492913008
+[2025-05-31 17:52:10] [DEBUG] Receive Before size : 291166
+[2025-05-31 17:52:10] [DEBUG] Receive After size : 281070
+[2025-05-31 17:52:10] [DEBUG] Receive Log size : 375
+[2025-05-31 17:52:11] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-05-31 17:51:45] [Client Log] [DEBUG] Create log file
+[2025-05-31 17:51:45] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-05-31 17:51:52] [Client Log] [DEBUG] Before image upload
+[2025-05-31 17:51:56] [Client Log] [DEBUG] YOLO Matching execution time: 1056.36 ms
+[2025-05-31 17:52:02] [Client Log] [DEBUG] YOLO Matching execution time: 1172.28 ms
+
+**********************
+
+[2025-05-31 17:52:35] [DEBUG] Send Data Successful!
+[2025-05-31 17:52:37] [DEBUG] Receive Before size : 291166
+[2025-05-31 17:52:37] [DEBUG] Receive After size : 281070
+[2025-05-31 17:52:37] [DEBUG] Receive Log size : 662
+[2025-05-31 17:52:37] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-05-31 17:51:45] [Client Log] [DEBUG] Create log file
+[2025-05-31 17:51:45] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-05-31 17:51:52] [Client Log] [DEBUG] Before image upload
+[2025-05-31 17:51:56] [Client Log] [DEBUG] YOLO Matching execution time: 1056.36 ms
+[2025-05-31 17:52:02] [Client Log] [DEBUG] YOLO Matching execution time: 1172.28 ms
+[2025-05-31 17:52:10] [Client Log] [DEBUG] Send data to server successful
+[2025-05-31 17:52:35] [Client Log] [DEBUG] Receive Target size : 12777
+[2025-05-31 17:52:35] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-05-31 17:52:35] [Client Log] [DEBUG] Receive Server Data!
+
+**********************
+
+[2025-05-31 17:52:42] [INFO] DB Save Success!
+[2025-05-31 17:52:55] [INFO] Shutting down the server programme

@@ -1,0 +1,6 @@
+[2025-06-05 14:30:10] [Client Log] [DEBUG] Create log file
+[2025-06-05 14:30:10] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-06-05 14:30:15] [Client Log] [DEBUG] Receive Target size : 21631
+[2025-06-05 14:30:15] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-06-05 14:30:15] [Client Log] [DEBUG] Receive Server Data!
+[2025-06-05 14:30:20] [Client Log] [INFO]  camera grabbing start. 

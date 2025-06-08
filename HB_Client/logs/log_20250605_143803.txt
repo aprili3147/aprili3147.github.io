@@ -1,0 +1,56 @@
+[2025-06-05 14:38:03] [Client Log] [DEBUG] Create log file
+[2025-06-05 14:38:03] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-06-05 14:38:10] [Client Log] [DEBUG] Receive Target size : 21631
+[2025-06-05 14:38:10] [Client Log] [DEBUG] Receive Option : Match_Contours
+[2025-06-05 14:38:10] [Client Log] [DEBUG] Receive Server Data!
+[2025-06-05 14:38:16] [Client Log] [INFO]  camera grabbing start. 
+[2025-06-05 14:38:22] [Client Log] [DEBUG] Bright [increase], Current Brightness : 1
+[2025-06-05 14:38:26] [Client Log] [DEBUG] Bright [increase], Current Brightness : 2
+[2025-06-05 14:38:28] [Client Log] [DEBUG] Bright [increase], Current Brightness : 3
+[2025-06-05 14:38:29] [Client Log] [DEBUG] Bright [increase], Current Brightness : 4
+[2025-06-05 14:38:30] [Client Log] [DEBUG] Bright [increase], Current Brightness : 5
+[2025-06-05 14:38:31] [Client Log] [DEBUG] Bright [increase], Current Brightness : 6
+[2025-06-05 14:38:31] [Client Log] [DEBUG] Bright [increase], Current Brightness : 7
+[2025-06-05 14:38:32] [Client Log] [DEBUG] Bright [increase], Current Brightness : 8
+[2025-06-05 14:38:40] [Client Log] [DEBUG] bestBtightness: 11
+[2025-06-05 14:38:40] [Client Log] [DEBUG] similarity: 0.635882
+[2025-06-05 14:38:45] [Client Log] [DEBUG] Edge Matching execution time: 94.59 ms, 
+Matching similarity: 92.87%
+[2025-06-05 14:38:50] [Client Log] [DEBUG] Contour Matching execution time: 16.09 ms, 
+Rotation Check: OFF, 
+Contour Similarity: 99.57%
+[2025-06-05 14:38:54] [Client Log] [DEBUG] Contour Matching execution time: 100.31 ms, 
+Rotation Check: ON, 
+Contour Similarity: 99.73%
+[2025-06-05 14:38:59] [Client Log] [DEBUG] ORB Matching execution time: 1246.20 ms, 
+Match Similarity: 46.67%
+[2025-06-05 14:39:03] [Client Log] [DEBUG] Bright [increase], Current Brightness : 9
+[2025-06-05 14:39:04] [Client Log] [DEBUG] Bright [increase], Current Brightness : 10
+[2025-06-05 14:39:04] [Client Log] [DEBUG] Bright [increase], Current Brightness : 11
+[2025-06-05 14:39:05] [Client Log] [DEBUG] Bright [increase], Current Brightness : 12
+[2025-06-05 14:39:05] [Client Log] [DEBUG] Bright [increase], Current Brightness : 13
+[2025-06-05 14:39:06] [Client Log] [DEBUG] Bright [increase], Current Brightness : 14
+[2025-06-05 14:39:06] [Client Log] [DEBUG] Bright [increase], Current Brightness : 15
+[2025-06-05 14:39:07] [Client Log] [DEBUG] Bright [increase], Current Brightness : 16
+[2025-06-05 14:39:08] [Client Log] [DEBUG] Bright [increase], Current Brightness : 17
+[2025-06-05 14:39:11] [Client Log] [DEBUG] Edge Matching execution time: 48.25 ms, 
+Matching similarity: 67.28%
+[2025-06-05 14:39:14] [Client Log] [DEBUG] Contour Matching execution time: 95.13 ms, 
+Rotation Check: ON, 
+Contour Similarity: 97.04%
+[2025-06-05 14:39:18] [Client Log] [DEBUG] ORB Matching execution time: 100.74 ms, 
+Match Similarity: 53.33%
+[2025-06-05 14:39:25] [Client Log] [DEBUG] YOLO Matching execution time: 1315.86 ms
+[2025-06-05 14:39:26] [Client Log] [DEBUG] Bright [increase], Current Brightness : 18
+[2025-06-05 14:39:27] [Client Log] [DEBUG] Bright [increase], Current Brightness : 19
+[2025-06-05 14:39:28] [Client Log] [DEBUG] Bright [increase], Current Brightness : 20
+[2025-06-05 14:39:31] [Client Log] [DEBUG] ORB Matching execution time: 108.55 ms, 
+Match Similarity: 46.67%
+[2025-06-05 14:39:34] [Client Log] [DEBUG] Contour Matching execution time: 98.24 ms, 
+Rotation Check: ON, 
+Contour Similarity: 99.29%
+[2025-06-05 14:39:37] [Client Log] [DEBUG] Edge Matching execution time: 45.32 ms, 
+Matching similarity: 40.40%
+[2025-06-05 14:39:41] [Client Log] [DEBUG] Send data to server successful
+[2025-06-05 14:40:07] [Client Log] [DEBUG] Server Disconnect!
+[2025-06-05 14:40:09] [Client Log] [INFO] Shutting down the client programme

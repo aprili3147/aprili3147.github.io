@@ -1,0 +1,3 @@
+[2025-06-05 14:13:52] [DEBUG] Create log file
+[2025-06-05 14:13:52] [DEBUG] DB Connect!
+[2025-06-05 14:13:52] [ERROR] Failed to execute FindAll query!

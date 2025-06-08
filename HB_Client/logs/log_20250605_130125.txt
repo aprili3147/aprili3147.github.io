@@ -1,0 +1,306 @@
+[2025-06-05 13:01:25] [Client Log] [DEBUG] Create log file
+[2025-06-05 13:01:25] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-06-05 13:01:41] [Client Log] [DEBUG] Receive Target size : 21631
+[2025-06-05 13:01:41] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-06-05 13:01:41] [Client Log] [DEBUG] Receive Server Data!
+[2025-06-05 13:01:48] [Client Log] [INFO]  camera grabbing start. 
+[2025-06-05 13:01:50] [Client Log] [DEBUG] Bright [increase], Current Brightness : 1
+[2025-06-05 13:01:50] [Client Log] [DEBUG] Bright [increase], Current Brightness : 2
+[2025-06-05 13:01:50] [Client Log] [DEBUG] Bright [increase], Current Brightness : 3
+[2025-06-05 13:01:50] [Client Log] [DEBUG] Bright [increase], Current Brightness : 4
+[2025-06-05 13:01:50] [Client Log] [DEBUG] Bright [increase], Current Brightness : 5
+[2025-06-05 13:01:51] [Client Log] [DEBUG] Bright [increase], Current Brightness : 6
+[2025-06-05 13:01:51] [Client Log] [DEBUG] Bright [increase], Current Brightness : 7
+[2025-06-05 13:01:51] [Client Log] [DEBUG] Bright [increase], Current Brightness : 8
+[2025-06-05 13:02:43] [Client Log] [DEBUG] currunt brightness: 0
+[2025-06-05 13:02:43] [Client Log] [DEBUG] similarity: -0.013633
+[2025-06-05 13:02:43] [Client Log] [DEBUG] best brightness: 0
+[2025-06-05 13:02:44] [Client Log] [DEBUG] currunt brightness: 1
+[2025-06-05 13:02:44] [Client Log] [DEBUG] similarity: -0.013643
+[2025-06-05 13:02:44] [Client Log] [DEBUG] currunt brightness: 2
+[2025-06-05 13:02:44] [Client Log] [DEBUG] similarity: -0.013649
+[2025-06-05 13:02:44] [Client Log] [DEBUG] currunt brightness: 3
+[2025-06-05 13:02:44] [Client Log] [DEBUG] similarity: -0.013630
+[2025-06-05 13:02:44] [Client Log] [DEBUG] best brightness: 3
+[2025-06-05 13:02:44] [Client Log] [DEBUG] currunt brightness: 4
+[2025-06-05 13:02:44] [Client Log] [DEBUG] similarity: -0.013657
+[2025-06-05 13:02:44] [Client Log] [DEBUG] currunt brightness: 5
+[2025-06-05 13:02:44] [Client Log] [DEBUG] similarity: -0.013653
+[2025-06-05 13:02:44] [Client Log] [DEBUG] currunt brightness: 6
+[2025-06-05 13:02:44] [Client Log] [DEBUG] similarity: -0.013651
+[2025-06-05 13:02:44] [Client Log] [DEBUG] currunt brightness: 7
+[2025-06-05 13:02:44] [Client Log] [DEBUG] similarity: -0.013654
+[2025-06-05 13:02:44] [Client Log] [DEBUG] currunt brightness: 8
+[2025-06-05 13:02:44] [Client Log] [DEBUG] similarity: -0.013632
+[2025-06-05 13:02:44] [Client Log] [DEBUG] currunt brightness: 9
+[2025-06-05 13:02:44] [Client Log] [DEBUG] similarity: -0.013649
+[2025-06-05 13:02:44] [Client Log] [DEBUG] currunt brightness: 10
+[2025-06-05 13:02:44] [Client Log] [DEBUG] similarity: -0.013642
+[2025-06-05 13:02:44] [Client Log] [DEBUG] currunt brightness: 11
+[2025-06-05 13:02:44] [Client Log] [DEBUG] similarity: -0.013656
+[2025-06-05 13:02:45] [Client Log] [DEBUG] currunt brightness: 12
+[2025-06-05 13:02:45] [Client Log] [DEBUG] similarity: -0.013649
+[2025-06-05 13:02:45] [Client Log] [DEBUG] currunt brightness: 13
+[2025-06-05 13:02:45] [Client Log] [DEBUG] similarity: -0.013655
+[2025-06-05 13:02:45] [Client Log] [DEBUG] currunt brightness: 14
+[2025-06-05 13:02:45] [Client Log] [DEBUG] similarity: -0.013642
+[2025-06-05 13:02:45] [Client Log] [DEBUG] currunt brightness: 15
+[2025-06-05 13:02:45] [Client Log] [DEBUG] similarity: -0.013638
+[2025-06-05 13:02:45] [Client Log] [DEBUG] currunt brightness: 16
+[2025-06-05 13:02:45] [Client Log] [DEBUG] similarity: -0.013647
+[2025-06-05 13:02:45] [Client Log] [DEBUG] currunt brightness: 17
+[2025-06-05 13:02:45] [Client Log] [DEBUG] similarity: -0.013628
+[2025-06-05 13:02:45] [Client Log] [DEBUG] best brightness: 17
+[2025-06-05 13:02:45] [Client Log] [DEBUG] currunt brightness: 18
+[2025-06-05 13:02:45] [Client Log] [DEBUG] similarity: -0.013645
+[2025-06-05 13:02:45] [Client Log] [DEBUG] currunt brightness: 19
+[2025-06-05 13:02:45] [Client Log] [DEBUG] similarity: -0.013639
+[2025-06-05 13:02:45] [Client Log] [DEBUG] currunt brightness: 20
+[2025-06-05 13:02:45] [Client Log] [DEBUG] similarity: -0.013637
+[2025-06-05 13:02:45] [Client Log] [DEBUG] currunt brightness: 21
+[2025-06-05 13:02:45] [Client Log] [DEBUG] similarity: -0.013645
+[2025-06-05 13:02:45] [Client Log] [DEBUG] currunt brightness: 22
+[2025-06-05 13:02:46] [Client Log] [DEBUG] similarity: -0.013653
+[2025-06-05 13:02:46] [Client Log] [DEBUG] currunt brightness: 23
+[2025-06-05 13:02:46] [Client Log] [DEBUG] similarity: -0.013648
+[2025-06-05 13:02:46] [Client Log] [DEBUG] currunt brightness: 24
+[2025-06-05 13:02:46] [Client Log] [DEBUG] similarity: -0.013650
+[2025-06-05 13:02:46] [Client Log] [DEBUG] currunt brightness: 25
+[2025-06-05 13:02:46] [Client Log] [DEBUG] similarity: -0.013642
+[2025-06-05 13:02:46] [Client Log] [DEBUG] currunt brightness: 26
+[2025-06-05 13:02:46] [Client Log] [DEBUG] similarity: -0.013646
+[2025-06-05 13:02:46] [Client Log] [DEBUG] currunt brightness: 27
+[2025-06-05 13:02:46] [Client Log] [DEBUG] similarity: -0.013650
+[2025-06-05 13:02:46] [Client Log] [DEBUG] currunt brightness: 28
+[2025-06-05 13:02:46] [Client Log] [DEBUG] similarity: -0.013644
+[2025-06-05 13:02:46] [Client Log] [DEBUG] currunt brightness: 29
+[2025-06-05 13:02:46] [Client Log] [DEBUG] similarity: -0.013647
+[2025-06-05 13:02:46] [Client Log] [DEBUG] currunt brightness: 30
+[2025-06-05 13:02:46] [Client Log] [DEBUG] similarity: -0.013643
+[2025-06-05 13:02:46] [Client Log] [DEBUG] currunt brightness: 31
+[2025-06-05 13:02:46] [Client Log] [DEBUG] similarity: -0.013667
+[2025-06-05 13:02:46] [Client Log] [DEBUG] currunt brightness: 32
+[2025-06-05 13:02:46] [Client Log] [DEBUG] similarity: -0.013638
+[2025-06-05 13:02:47] [Client Log] [DEBUG] currunt brightness: 33
+[2025-06-05 13:02:47] [Client Log] [DEBUG] similarity: -0.013634
+[2025-06-05 13:02:47] [Client Log] [DEBUG] currunt brightness: 34
+[2025-06-05 13:02:47] [Client Log] [DEBUG] similarity: -0.013642
+[2025-06-05 13:02:47] [Client Log] [DEBUG] currunt brightness: 35
+[2025-06-05 13:02:47] [Client Log] [DEBUG] similarity: -0.013635
+[2025-06-05 13:02:47] [Client Log] [DEBUG] currunt brightness: 36
+[2025-06-05 13:02:47] [Client Log] [DEBUG] similarity: -0.013644
+[2025-06-05 13:02:47] [Client Log] [DEBUG] currunt brightness: 37
+[2025-06-05 13:02:47] [Client Log] [DEBUG] similarity: -0.013642
+[2025-06-05 13:02:47] [Client Log] [DEBUG] currunt brightness: 38
+[2025-06-05 13:02:47] [Client Log] [DEBUG] similarity: -0.013650
+[2025-06-05 13:02:47] [Client Log] [DEBUG] currunt brightness: 39
+[2025-06-05 13:02:47] [Client Log] [DEBUG] similarity: -0.013645
+[2025-06-05 13:02:47] [Client Log] [DEBUG] currunt brightness: 40
+[2025-06-05 13:02:47] [Client Log] [DEBUG] similarity: -0.013640
+[2025-06-05 13:02:47] [Client Log] [DEBUG] currunt brightness: 41
+[2025-06-05 13:02:47] [Client Log] [DEBUG] similarity: -0.013641
+[2025-06-05 13:02:47] [Client Log] [DEBUG] currunt brightness: 42
+[2025-06-05 13:02:47] [Client Log] [DEBUG] similarity: -0.013628
+[2025-06-05 13:02:47] [Client Log] [DEBUG] best brightness: 42
+[2025-06-05 13:02:47] [Client Log] [DEBUG] currunt brightness: 43
+[2025-06-05 13:02:48] [Client Log] [DEBUG] similarity: -0.013634
+[2025-06-05 13:02:48] [Client Log] [DEBUG] currunt brightness: 44
+[2025-06-05 13:02:48] [Client Log] [DEBUG] similarity: -0.013648
+[2025-06-05 13:02:48] [Client Log] [DEBUG] currunt brightness: 45
+[2025-06-05 13:02:48] [Client Log] [DEBUG] similarity: -0.013633
+[2025-06-05 13:02:48] [Client Log] [DEBUG] currunt brightness: 46
+[2025-06-05 13:02:48] [Client Log] [DEBUG] similarity: -0.013651
+[2025-06-05 13:02:48] [Client Log] [DEBUG] currunt brightness: 47
+[2025-06-05 13:02:48] [Client Log] [DEBUG] similarity: -0.013640
+[2025-06-05 13:02:48] [Client Log] [DEBUG] currunt brightness: 48
+[2025-06-05 13:02:48] [Client Log] [DEBUG] similarity: -0.013631
+[2025-06-05 13:02:48] [Client Log] [DEBUG] currunt brightness: 49
+[2025-06-05 13:02:48] [Client Log] [DEBUG] similarity: -0.013643
+[2025-06-05 13:02:48] [Client Log] [DEBUG] currunt brightness: 50
+[2025-06-05 13:02:48] [Client Log] [DEBUG] similarity: -0.013647
+[2025-06-05 13:02:48] [Client Log] [DEBUG] currunt brightness: 51
+[2025-06-05 13:02:48] [Client Log] [DEBUG] similarity: -0.013648
+[2025-06-05 13:02:48] [Client Log] [DEBUG] currunt brightness: 52
+[2025-06-05 13:02:48] [Client Log] [DEBUG] similarity: -0.013647
+[2025-06-05 13:02:48] [Client Log] [DEBUG] currunt brightness: 53
+[2025-06-05 13:02:48] [Client Log] [DEBUG] similarity: -0.013643
+[2025-06-05 13:02:48] [Client Log] [DEBUG] currunt brightness: 54
+[2025-06-05 13:02:49] [Client Log] [DEBUG] similarity: -0.013644
+[2025-06-05 13:02:49] [Client Log] [DEBUG] currunt brightness: 55
+[2025-06-05 13:02:49] [Client Log] [DEBUG] similarity: -0.013649
+[2025-06-05 13:02:49] [Client Log] [DEBUG] currunt brightness: 56
+[2025-06-05 13:02:49] [Client Log] [DEBUG] similarity: -0.013642
+[2025-06-05 13:02:49] [Client Log] [DEBUG] currunt brightness: 57
+[2025-06-05 13:02:49] [Client Log] [DEBUG] similarity: -0.013635
+[2025-06-05 13:02:49] [Client Log] [DEBUG] currunt brightness: 58
+[2025-06-05 13:02:49] [Client Log] [DEBUG] similarity: -0.013656
+[2025-06-05 13:02:49] [Client Log] [DEBUG] currunt brightness: 59
+[2025-06-05 13:02:49] [Client Log] [DEBUG] similarity: -0.013643
+[2025-06-05 13:02:49] [Client Log] [DEBUG] currunt brightness: 60
+[2025-06-05 13:02:49] [Client Log] [DEBUG] similarity: -0.013646
+[2025-06-05 13:02:49] [Client Log] [DEBUG] currunt brightness: 61
+[2025-06-05 13:02:49] [Client Log] [DEBUG] similarity: -0.013636
+[2025-06-05 13:02:49] [Client Log] [DEBUG] currunt brightness: 62
+[2025-06-05 13:02:49] [Client Log] [DEBUG] similarity: -0.013650
+[2025-06-05 13:02:49] [Client Log] [DEBUG] currunt brightness: 63
+[2025-06-05 13:02:49] [Client Log] [DEBUG] similarity: -0.013639
+[2025-06-05 13:02:49] [Client Log] [DEBUG] currunt brightness: 64
+[2025-06-05 13:02:49] [Client Log] [DEBUG] similarity: -0.013647
+[2025-06-05 13:02:49] [Client Log] [DEBUG] currunt brightness: 65
+[2025-06-05 13:02:49] [Client Log] [DEBUG] similarity: -0.013641
+[2025-06-05 13:02:49] [Client Log] [DEBUG] currunt brightness: 66
+[2025-06-05 13:02:49] [Client Log] [DEBUG] similarity: -0.013627
+[2025-06-05 13:02:49] [Client Log] [DEBUG] best brightness: 66
+[2025-06-05 13:02:49] [Client Log] [DEBUG] currunt brightness: 67
+[2025-06-05 13:02:49] [Client Log] [DEBUG] similarity: -0.013655
+[2025-06-05 13:02:49] [Client Log] [DEBUG] currunt brightness: 68
+[2025-06-05 13:02:49] [Client Log] [DEBUG] similarity: -0.013639
+[2025-06-05 13:02:49] [Client Log] [DEBUG] currunt brightness: 69
+[2025-06-05 13:02:49] [Client Log] [DEBUG] similarity: -0.013646
+[2025-06-05 13:02:49] [Client Log] [DEBUG] currunt brightness: 70
+[2025-06-05 13:02:50] [Client Log] [DEBUG] similarity: -0.013645
+[2025-06-05 13:02:50] [Client Log] [DEBUG] currunt brightness: 71
+[2025-06-05 13:02:50] [Client Log] [DEBUG] similarity: -0.013651
+[2025-06-05 13:02:50] [Client Log] [DEBUG] currunt brightness: 72
+[2025-06-05 13:02:50] [Client Log] [DEBUG] similarity: -0.013653
+[2025-06-05 13:02:50] [Client Log] [DEBUG] currunt brightness: 73
+[2025-06-05 13:02:50] [Client Log] [DEBUG] similarity: -0.013642
+[2025-06-05 13:02:50] [Client Log] [DEBUG] currunt brightness: 74
+[2025-06-05 13:02:50] [Client Log] [DEBUG] similarity: -0.013632
+[2025-06-05 13:02:50] [Client Log] [DEBUG] currunt brightness: 75
+[2025-06-05 13:02:50] [Client Log] [DEBUG] similarity: -0.013641
+[2025-06-05 13:02:50] [Client Log] [DEBUG] currunt brightness: 76
+[2025-06-05 13:02:50] [Client Log] [DEBUG] similarity: -0.013640
+[2025-06-05 13:02:50] [Client Log] [DEBUG] currunt brightness: 77
+[2025-06-05 13:02:50] [Client Log] [DEBUG] similarity: -0.013653
+[2025-06-05 13:02:50] [Client Log] [DEBUG] currunt brightness: 78
+[2025-06-05 13:02:50] [Client Log] [DEBUG] similarity: -0.013634
+[2025-06-05 13:02:50] [Client Log] [DEBUG] currunt brightness: 79
+[2025-06-05 13:02:50] [Client Log] [DEBUG] similarity: -0.013634
+[2025-06-05 13:02:50] [Client Log] [DEBUG] currunt brightness: 80
+[2025-06-05 13:02:50] [Client Log] [DEBUG] similarity: -0.013632
+[2025-06-05 13:02:50] [Client Log] [DEBUG] currunt brightness: 81
+[2025-06-05 13:02:50] [Client Log] [DEBUG] similarity: -0.013634
+[2025-06-05 13:02:50] [Client Log] [DEBUG] currunt brightness: 82
+[2025-06-05 13:02:50] [Client Log] [DEBUG] similarity: -0.013633
+[2025-06-05 13:02:50] [Client Log] [DEBUG] currunt brightness: 83
+[2025-06-05 13:02:50] [Client Log] [DEBUG] similarity: -0.013650
+[2025-06-05 13:02:50] [Client Log] [DEBUG] currunt brightness: 84
+[2025-06-05 13:02:50] [Client Log] [DEBUG] similarity: -0.013639
+[2025-06-05 13:02:50] [Client Log] [DEBUG] currunt brightness: 85
+[2025-06-05 13:02:50] [Client Log] [DEBUG] similarity: -0.013651
+[2025-06-05 13:02:50] [Client Log] [DEBUG] currunt brightness: 86
+[2025-06-05 13:02:50] [Client Log] [DEBUG] similarity: -0.013631
+[2025-06-05 13:02:50] [Client Log] [DEBUG] currunt brightness: 87
+[2025-06-05 13:02:50] [Client Log] [DEBUG] similarity: -0.013655
+[2025-06-05 13:02:50] [Client Log] [DEBUG] currunt brightness: 88
+[2025-06-05 13:02:50] [Client Log] [DEBUG] similarity: -0.013651
+[2025-06-05 13:02:51] [Client Log] [DEBUG] currunt brightness: 89
+[2025-06-05 13:02:51] [Client Log] [DEBUG] similarity: -0.013642
+[2025-06-05 13:02:51] [Client Log] [DEBUG] currunt brightness: 90
+[2025-06-05 13:02:51] [Client Log] [DEBUG] similarity: -0.013631
+[2025-06-05 13:02:51] [Client Log] [DEBUG] currunt brightness: 91
+[2025-06-05 13:02:51] [Client Log] [DEBUG] similarity: -0.013630
+[2025-06-05 13:02:51] [Client Log] [DEBUG] currunt brightness: 92
+[2025-06-05 13:02:51] [Client Log] [DEBUG] similarity: -0.013641
+[2025-06-05 13:02:51] [Client Log] [DEBUG] currunt brightness: 93
+[2025-06-05 13:02:51] [Client Log] [DEBUG] similarity: -0.013661
+[2025-06-05 13:02:51] [Client Log] [DEBUG] currunt brightness: 94
+[2025-06-05 13:02:51] [Client Log] [DEBUG] similarity: -0.013637
+[2025-06-05 13:02:51] [Client Log] [DEBUG] currunt brightness: 95
+[2025-06-05 13:02:51] [Client Log] [DEBUG] similarity: -0.013646
+[2025-06-05 13:02:51] [Client Log] [DEBUG] currunt brightness: 96
+[2025-06-05 13:02:51] [Client Log] [DEBUG] similarity: -0.013640
+[2025-06-05 13:02:51] [Client Log] [DEBUG] currunt brightness: 97
+[2025-06-05 13:02:51] [Client Log] [DEBUG] similarity: -0.013648
+[2025-06-05 13:02:51] [Client Log] [DEBUG] currunt brightness: 98
+[2025-06-05 13:02:51] [Client Log] [DEBUG] similarity: -0.013645
+[2025-06-05 13:02:51] [Client Log] [DEBUG] currunt brightness: 99
+[2025-06-05 13:02:51] [Client Log] [DEBUG] similarity: -0.013653
+[2025-06-05 13:02:51] [Client Log] [DEBUG] currunt brightness: 100
+[2025-06-05 13:02:51] [Client Log] [DEBUG] similarity: -0.013648
+[2025-06-05 13:02:51] [Client Log] [DEBUG] currunt brightness: 101
+[2025-06-05 13:02:51] [Client Log] [DEBUG] similarity: -0.013640
+[2025-06-05 13:02:51] [Client Log] [DEBUG] currunt brightness: 102
+[2025-06-05 13:02:51] [Client Log] [DEBUG] similarity: -0.013644
+[2025-06-05 13:02:51] [Client Log] [DEBUG] currunt brightness: 103
+[2025-06-05 13:02:51] [Client Log] [DEBUG] similarity: -0.013617
+[2025-06-05 13:02:51] [Client Log] [DEBUG] best brightness: 103
+[2025-06-05 13:02:51] [Client Log] [DEBUG] currunt brightness: 104
+[2025-06-05 13:02:51] [Client Log] [DEBUG] similarity: -0.013647
+[2025-06-05 13:02:51] [Client Log] [DEBUG] currunt brightness: 105
+[2025-06-05 13:02:51] [Client Log] [DEBUG] similarity: -0.013653
+[2025-06-05 13:02:51] [Client Log] [DEBUG] currunt brightness: 106
+[2025-06-05 13:02:52] [Client Log] [DEBUG] similarity: -0.013635
+[2025-06-05 13:02:52] [Client Log] [DEBUG] currunt brightness: 107
+[2025-06-05 13:02:52] [Client Log] [DEBUG] similarity: -0.013643
+[2025-06-05 13:02:52] [Client Log] [DEBUG] currunt brightness: 108
+[2025-06-05 13:02:52] [Client Log] [DEBUG] similarity: -0.013634
+[2025-06-05 13:02:52] [Client Log] [DEBUG] currunt brightness: 109
+[2025-06-05 13:02:52] [Client Log] [DEBUG] similarity: -0.013649
+[2025-06-05 13:02:52] [Client Log] [DEBUG] currunt brightness: 110
+[2025-06-05 13:02:52] [Client Log] [DEBUG] similarity: -0.013651
+[2025-06-05 13:02:52] [Client Log] [DEBUG] currunt brightness: 111
+[2025-06-05 13:02:52] [Client Log] [DEBUG] similarity: -0.013648
+[2025-06-05 13:02:52] [Client Log] [DEBUG] currunt brightness: 112
+[2025-06-05 13:02:52] [Client Log] [DEBUG] similarity: -0.013658
+[2025-06-05 13:02:52] [Client Log] [DEBUG] currunt brightness: 113
+[2025-06-05 13:02:52] [Client Log] [DEBUG] similarity: -0.013648
+[2025-06-05 13:02:52] [Client Log] [DEBUG] currunt brightness: 114
+[2025-06-05 13:02:52] [Client Log] [DEBUG] similarity: -0.013641
+[2025-06-05 13:02:52] [Client Log] [DEBUG] currunt brightness: 115
+[2025-06-05 13:02:52] [Client Log] [DEBUG] similarity: -0.013656
+[2025-06-05 13:02:52] [Client Log] [DEBUG] currunt brightness: 116
+[2025-06-05 13:02:52] [Client Log] [DEBUG] similarity: -0.013645
+[2025-06-05 13:02:52] [Client Log] [DEBUG] currunt brightness: 117
+[2025-06-05 13:02:52] [Client Log] [DEBUG] similarity: -0.013637
+[2025-06-05 13:02:52] [Client Log] [DEBUG] currunt brightness: 118
+[2025-06-05 13:02:52] [Client Log] [DEBUG] similarity: -0.013642
+[2025-06-05 13:02:52] [Client Log] [DEBUG] currunt brightness: 119
+[2025-06-05 13:02:52] [Client Log] [DEBUG] similarity: -0.013649
+[2025-06-05 13:02:52] [Client Log] [DEBUG] currunt brightness: 120
+[2025-06-05 13:02:52] [Client Log] [DEBUG] similarity: -0.013632
+[2025-06-05 13:02:52] [Client Log] [DEBUG] currunt brightness: 121
+[2025-06-05 13:02:52] [Client Log] [DEBUG] similarity: -0.013642
+[2025-06-05 13:02:52] [Client Log] [DEBUG] currunt brightness: 122
+[2025-06-05 13:02:52] [Client Log] [DEBUG] similarity: -0.013643
+[2025-06-05 13:02:52] [Client Log] [DEBUG] currunt brightness: 123
+[2025-06-05 13:02:52] [Client Log] [DEBUG] similarity: -0.013647
+[2025-06-05 13:02:52] [Client Log] [DEBUG] currunt brightness: 124
+[2025-06-05 13:02:52] [Client Log] [DEBUG] similarity: -0.013649
+[2025-06-05 13:02:52] [Client Log] [DEBUG] currunt brightness: 125
+[2025-06-05 13:02:52] [Client Log] [DEBUG] similarity: -0.013643
+[2025-06-05 13:02:53] [Client Log] [DEBUG] currunt brightness: 126
+[2025-06-05 13:02:53] [Client Log] [DEBUG] similarity: -0.013647
+[2025-06-05 13:02:53] [Client Log] [DEBUG] currunt brightness: 127
+[2025-06-05 13:02:53] [Client Log] [DEBUG] similarity: -0.013640
+[2025-06-05 13:02:53] [Client Log] [DEBUG] currunt brightness: 128
+[2025-06-05 13:02:53] [Client Log] [DEBUG] similarity: -0.013622
+[2025-06-05 13:02:53] [Client Log] [DEBUG] currunt brightness: 129
+[2025-06-05 13:02:53] [Client Log] [DEBUG] similarity: -0.013642
+[2025-06-05 13:02:53] [Client Log] [DEBUG] currunt brightness: 130
+[2025-06-05 13:02:53] [Client Log] [DEBUG] similarity: -0.013633
+[2025-06-05 13:02:53] [Client Log] [DEBUG] currunt brightness: 131
+[2025-06-05 13:02:53] [Client Log] [DEBUG] similarity: -0.013656
+[2025-06-05 13:02:53] [Client Log] [DEBUG] currunt brightness: 132
+[2025-06-05 13:02:53] [Client Log] [DEBUG] similarity: -0.013639
+[2025-06-05 13:02:53] [Client Log] [DEBUG] currunt brightness: 133
+[2025-06-05 13:02:53] [Client Log] [DEBUG] similarity: -0.013633
+[2025-06-05 13:02:53] [Client Log] [DEBUG] currunt brightness: 134
+[2025-06-05 13:02:53] [Client Log] [DEBUG] similarity: -0.013649
+[2025-06-05 13:02:53] [Client Log] [DEBUG] currunt brightness: 135
+[2025-06-05 13:02:53] [Client Log] [DEBUG] similarity: -0.013640
+[2025-06-05 13:02:53] [Client Log] [DEBUG] currunt brightness: 136
+[2025-06-05 13:02:53] [Client Log] [DEBUG] similarity: -0.013637
+[2025-06-05 13:02:53] [Client Log] [DEBUG] currunt brightness: 137
+[2025-06-05 13:02:53] [Client Log] [DEBUG] similarity: -0.013633
+[2025-06-05 13:02:53] [Client Log] [DEBUG] currunt brightness: 138
+[2025-06-05 13:02:53] [Client Log] [DEBUG] similarity: -0.013649
+[2025-06-05 13:02:53] [Client Log] [DEBUG] currunt brightness: 139
+[2025-06-05 13:02:53] [Client Log] [DEBUG] similarity: -0.013651
+[2025-06-05 13:02:53] [Client Log] [DEBUG] currunt brightness: 140
+[2025-06-05 13:02:53] [Client Log] [DEBUG] similarity: -0.013633
+[2025-06-05 13:02:53] [Client Log] [DEBUG] currunt brightness: 141
+[2025-06-05 13:02:53] [Client Log] [DEBUG] similarity: -0.013644
+[2025-06-05 13:02:53] [Client Log] [DEBUG] currunt brightness: 142
+[2025-06-05 13:02:53] [Client Log] [DEBUG] similarity: -0.013634

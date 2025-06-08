@@ -1,0 +1,5 @@
+[2025-04-17 10:12:26] [Client Log] [DEBUG] Create log file
+[2025-04-17 10:12:26] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-17 10:12:40] [Client Log] [DEBUG] Receive Target size : 2864
+[2025-04-17 10:12:40] [Client Log] [DEBUG] Receive Option : Num 1
+[2025-04-17 10:12:41] [Client Log] [DEBUG] Receive Server Data!

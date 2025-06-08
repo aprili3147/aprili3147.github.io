@@ -1,0 +1,15 @@
+[2025-05-31 17:27:22] [Client Log] [DEBUG] Create log file
+[2025-05-31 17:27:22] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-05-31 17:27:24] [Client Log] [DEBUG] Bright [increase], Current Brightness : 5
+[2025-05-31 17:27:25] [Client Log] [DEBUG] Bright [increase], Current Brightness : 10
+[2025-05-31 17:27:25] [Client Log] [DEBUG] Bright [increase], Current Brightness : 15
+[2025-05-31 17:27:25] [Client Log] [DEBUG] Bright [increase], Current Brightness : 20
+[2025-05-31 17:27:25] [Client Log] [DEBUG] Bright [increase], Current Brightness : 25
+[2025-05-31 17:27:25] [Client Log] [DEBUG] Bright [increase], Current Brightness : 30
+[2025-05-31 17:27:26] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 25
+[2025-05-31 17:27:26] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 20
+[2025-05-31 17:27:26] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 15
+[2025-05-31 17:27:27] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 10
+[2025-05-31 17:27:27] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 5
+[2025-05-31 17:27:27] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 0
+[2025-05-31 17:27:28] [Client Log] [INFO] Shutting down the client programme

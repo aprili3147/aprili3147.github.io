@@ -1,0 +1,4 @@
+[2025-05-22 14:48:37] [Client Log] [DEBUG] Create log file
+[2025-05-22 14:48:37] [Client Log] [WARNING] Connection refused: The server is not running or the port is closed.
+[2025-05-22 14:48:40] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-05-22 14:48:45] [Client Log] [INFO] Shutting down the client programme

@@ -1,0 +1,2 @@
+[2025-05-18 19:36:39] [Client Log] [DEBUG] Create log file
+[2025-05-18 19:36:39] [Client Log] [WARNING] Connection refused: The server is not running or the port is closed.

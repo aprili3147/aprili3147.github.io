@@ -1,0 +1,27 @@
+[2025-04-30 13:41:31] [DEBUG] Create log file
+[2025-04-30 13:41:31] [DEBUG] DB Connect!
+[2025-04-30 13:41:33] [INFO] Listening Server. IP : 192.168.111.1, PORT : 123
+[2025-04-30 13:41:37] [INFO] Connect Client : -1561867376
+[2025-04-30 13:41:49] [DEBUG] Send Data Successful!
+[2025-04-30 13:42:14] [DEBUG] Receive Before size : 282353
+[2025-04-30 13:42:14] [DEBUG] Receive After size : 243682
+[2025-04-30 13:42:14] [DEBUG] Receive Log size : 745
+[2025-04-30 13:42:14] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-30 13:41:37] [Client Log] [DEBUG] Create log file
+[2025-04-30 13:41:37] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-30 13:41:49] [Client Log] [DEBUG] Receive Target size : 56029
+[2025-04-30 13:41:49] [Client Log] [DEBUG] Receive Option : Match_ORB
+[2025-04-30 13:41:49] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-30 13:41:54] [Client Log] [DEBUG] Before image upload
+[2025-04-30 13:41:58] [Client Log] [DEBUG] Edge Matching execution time: 84.34 ms
+[2025-04-30 13:42:01] [Client Log] [DEBUG] Contour Matching execution time: 14.68 ms
+[2025-04-30 13:42:05] [Client Log] [DEBUG] YOLO Matching execution time: 1414.26 ms
+[2025-04-30 13:42:10] [Client Log] [DEBUG] ORB Matching execution time: 516.56 ms
+
+**********************
+
+[2025-04-30 13:42:17] [INFO] DB Save Success!
+[2025-04-30 13:42:28] [INFO] Disconnect Client : -1561664200
+[2025-04-30 13:42:31] [INFO] Shutting down the server programme

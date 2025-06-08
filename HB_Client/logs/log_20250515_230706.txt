@@ -1,0 +1,4 @@
+[2025-05-15 23:07:06] [Client Log] [DEBUG] Create log file
+[2025-05-15 23:07:06] [Client Log] [INFO] Connect Server. IP : 192.168.35.205, PORT : 123
+[2025-05-15 23:09:20] [Client Log] [DEBUG] Edge Matching execution time: 134.44 ms
+[2025-05-15 23:09:51] [Client Log] [INFO] Shutting down the client programme

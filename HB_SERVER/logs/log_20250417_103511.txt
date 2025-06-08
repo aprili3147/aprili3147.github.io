@@ -1,0 +1,42 @@
+[2025-04-17 10:35:11] [DEBUG] Create log file
+[2025-04-17 10:35:11] [DEBUG] DB Connect!
+[2025-04-17 10:35:13] [INFO] Listening Server. IP : 192.168.111.1, PORT : 123
+[2025-04-17 10:35:16] [INFO] Connect Client : 303967952
+[2025-04-17 10:35:22] [DEBUG] Send Data Successful!
+[2025-04-17 10:35:46] [DEBUG] Receive Before size : 25969
+[2025-04-17 10:35:46] [DEBUG] Receive After size : 21547
+[2025-04-17 10:35:46] [DEBUG] Receive Log size : 345
+[2025-04-17 10:35:47] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-17 10:35:16] [Client Log] [DEBUG] Create log file
+[2025-04-17 10:35:16] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-17 10:35:22] [Client Log] [DEBUG] Receive Target size : 25969
+[2025-04-17 10:35:22] [Client Log] [DEBUG] Receive Option : Num 1
+[2025-04-17 10:35:22] [Client Log] [DEBUG] Receive Server Data!
+
+**********************
+
+[2025-04-17 10:36:01] [DEBUG] Send Data Successful!
+[2025-04-17 10:36:11] [DEBUG] Receive Before size : 25969
+[2025-04-17 10:36:11] [DEBUG] Receive After size : 22054
+[2025-04-17 10:36:11] [DEBUG] Receive Log size : 619
+[2025-04-17 10:36:11] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-17 10:35:16] [Client Log] [DEBUG] Create log file
+[2025-04-17 10:35:16] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-17 10:35:22] [Client Log] [DEBUG] Receive Target size : 25969
+[2025-04-17 10:35:22] [Client Log] [DEBUG] Receive Option : Num 1
+[2025-04-17 10:35:22] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-17 10:35:46] [Client Log] [DEBUG] Send data to server successful
+[2025-04-17 10:36:01] [Client Log] [DEBUG] Receive Target size : 2864
+[2025-04-17 10:36:01] [Client Log] [DEBUG] Receive Option : Num 1
+[2025-04-17 10:36:01] [Client Log] [DEBUG] Receive Server Data!
+
+**********************
+
+[2025-04-17 10:36:18] [INFO] DB Save Success!
+[2025-04-17 10:37:06] [DEBUG] DELETE data id : 88
+[2025-04-17 10:37:09] [DEBUG] DELETE data id : 87
+[2025-04-17 10:37:12] [INFO] Shutting down the server programme

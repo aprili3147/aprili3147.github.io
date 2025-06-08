@@ -1,0 +1,182 @@
+// ClientSocket.cpp: 구현 파일
+//
+
+#include "pch.h"
+#include "HB_Client.h"
+#include "ClientSocket.h"
+
+
+// ClientSocket
+ClientSocket client;
+
+ClientSocket::ClientSocket()
+{
+}
+
+ClientSocket::~ClientSocket()
+{
+}
+
+
+// ClientSocket 멤버 함수
+void ClientSocket::SetWnd(HWND hWnd)
+{
+    client.m_hWnd = hWnd;
+}
+
+SocketStatus ClientSocket::CreateSocket(CString ipAddr, int port)
+{
+    SocketStatus status;
+    status.isSuccess = false;
+    status.strIP = ipAddr;
+
+    if (!client.Create()) {
+        status.strResult = L"Create TCP Socket Failed!";
+        CLogger::GetInstance().Log(status.strResult, LOG_LEVEL_ERROR);
+        return status;
+    }
+    if (client.Connect(status.strIP, port) == SOCKET_ERROR) {
+        if (GetLastError() != WSAEWOULDBLOCK) {
+            int errorCode = GetLastError();
+            CString errorMsg;
+            errorMsg.Format(L"TCP socket connection failed!\nError code : %d", errorCode);
+
+            CLogger::GetInstance().Log(errorMsg, LOG_LEVEL_ERROR);
+
+            status.strResult = errorMsg;
+            client.Close();
+            return status;
+        }
+    }
+
+    if (CheckConnectReJection()) {
+        status.strResult = L"Server full!";
+        CLogger::GetInstance().Log(status.strResult, LOG_LEVEL_WARN);
+        return status;
+    }
+
+    CString logStr;
+    logStr.Format(L"Connect Server. IP : %s, PORT : %d", ipAddr, port);
+    CLogger::GetInstance().Log(logStr, LOG_LEVEL_INFO);
+
+    status.strResult = _T("Connect Server");
+    status.isSuccess = true;
+
+    return status;
+}
+
+bool ClientSocket::CheckConnectReJection() {
+    int errorCode = -1;
+    client.Receive(&errorCode, sizeof(errorCode));
+
+    if (errorCode == SERVER_FULL) {
+        return true;
+    }
+    return false;
+}
+
+void ClientSocket::SendImage(Mat& beforeImg, Mat& afterImg, CString strLog) 
+{
+    // before 이미지
+    std::vector<uchar> beforeBuffer;
+    imencode(".png", beforeImg, beforeBuffer);
+
+    // after 이미지
+    std::vector<uchar> afterBuffer;
+    imencode(".png", afterImg, afterBuffer);
+
+    // 로그 byte 배열 변환
+    std::string logStr(CT2A(strLog.GetString()));
+    std::vector<uchar> logBuffer(logStr.begin(), logStr.end());
+
+    // before 이미지 전송
+    int beforeSize = beforeBuffer.size();
+    client.Send(&beforeSize, sizeof(beforeSize));   // 크기
+    client.Send(beforeBuffer.data(), beforeSize);   // 이미지 데이터
+
+    // after 이미지 전송
+    int afterSize = afterBuffer.size();
+    client.Send(&afterSize, sizeof(afterSize));     // 크기
+    client.Send(afterBuffer.data(), afterSize);     // 이미지 데이터
+
+    // 로그 전송
+    int logSize = logBuffer.size();
+    client.Send(&logSize, sizeof(logSize)); // 크기 
+    client.Send(logBuffer.data(), logSize); // 로그 데이터
+
+    CLogger::GetInstance().Log(L"Send data to server successful");
+}
+
+void ClientSocket::OnReceive(int nErrorCode)
+{
+    if (nErrorCode != 0) return;
+
+    CString sizeLogStr;
+
+    // 이미지 크기
+    int imgSize = 0;
+    client.Receive(&imgSize, sizeof(imgSize));
+
+    sizeLogStr.Format(L"Receive Target size : %d", imgSize);
+    CLogger::GetInstance().Log(sizeLogStr);
+
+    // 이미지 데이터
+    std::vector<uchar> imgBuffer(imgSize);
+    client.Receive(imgBuffer.data(), imgSize);
+
+    // 옵션 크기
+    int optionSize = 0;
+    client.Receive(&optionSize, sizeof(optionSize));
+
+    // 옵션 데이터
+    std::vector<uchar> optionBuffer(optionSize);
+    Receive(optionBuffer.data(), optionSize);
+    std::string optionStr(optionBuffer.begin(), optionBuffer.end());
+    CString strOption(optionStr.c_str());
+
+    sizeLogStr.Format(L"Receive Option : %s", strOption);
+    CLogger::GetInstance().Log(sizeLogStr);
+
+    Mat* pImg = new Mat(cv::imdecode(imgBuffer, IMREAD_COLOR));  // Mat 변환
+
+    ImageData imgData;
+    imgData.pImg = pImg;
+    imgData.optionStr = strOption;
+
+    CLogger::GetInstance().Log(L"Receive Server Data!");
+    AfxMessageBox(L"Receive Server Data!");
+
+    SendMessage(client.m_hWnd, WM_CLIENT_IMG_RECV, 0, (LPARAM)&imgData);
+
+	CSocket::OnReceive(nErrorCode);
+}
+
+void ClientSocket::DisplayImage(CStatic& pic, cv::Mat& img)
+{
+    // 픽처 박스 크기
+    CRect rect;
+    pic.GetClientRect(&rect);
+
+    CImage image;
+    image.Create(img.cols, img.rows, 24);  // CImage 생성
+
+    //Mat 데이터 비트를 CImage 메모리로 복사
+    uchar* pDst = (uchar*)image.GetBits();
+    int step = image.GetPitch();
+    for (int y = 0; y < img.rows; y++) {
+        memcpy(pDst + y * step, img.ptr(y), img.cols * 3);
+    }
+
+    CClientDC dc(&pic);
+    pic.Invalidate();
+    image.StretchBlt(dc.m_hDC, 0, 0, rect.Width(), rect.Height(), SRCCOPY);
+}
+
+void ClientSocket::OnClose(int nErrorCode)
+{
+    CLogger::GetInstance().Log(L"Server Disconnect!");
+
+    SendMessage(m_hWnd, WM_SERVER_CLOSE, 0, (LPARAM)this);
+
+    CSocket::OnClose(nErrorCode);
+}

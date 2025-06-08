@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\MySQLConn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|solutionrelative:MySQLConn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\MySQLConn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|solutionrelative:MySQLConn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wkdgu\\OneDrive\\Desktop\\\uC790\uB8CC \uBAA8\uC74C\uC9D1\\\uCD5C\uC885\uCF54\uB4DC_HBsolution\\Server Client Template matching\\Client.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\ClientSocket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|solutionrelative:ClientSocket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\DlgTab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|solutionrelative:DlgTab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\DlgTab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|solutionrelative:DlgTab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\ClientSocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|solutionrelative:ClientSocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|solutionrelative:Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\ServerSocket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|solutionrelative:ServerSocket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\HBSERVER.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u00A5 2$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|solutionrelative:HBSERVER.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u00A5 2$  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\DlgTab2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|solutionrelative:DlgTab2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\delete_scalar_size.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\DlgTab1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|solutionrelative:DlgTab1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\HB_SERVERDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|solutionrelative:HB_SERVERDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\ServerSocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|solutionrelative:ServerSocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\HBSERVER.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u00A3 2$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{A9E88860-9040-4C90-9999-B58CF1BCAEFC}|HB_SERVER.vcxproj|solutionrelative:HBSERVER.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u00A3 2$  \u0022     "
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MySQLConn.h",
+              "DocumentMoniker": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\MySQLConn.h",
+              "RelativeDocumentMoniker": "MySQLConn.h",
+              "ToolTip": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\MySQLConn.h",
+              "RelativeToolTip": "MySQLConn.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-15T14:05:32.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\\uC790\uB8CC \uBAA8\uC74C\uC9D1\\\uCD5C\uC885\uCF54\uB4DC_HBsolution\\Server Client Template matching\\Client.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\\uC790\uB8CC \uBAA8\uC74C\uC9D1\\\uCD5C\uC885\uCF54\uB4DC_HBsolution\\Server Client Template matching\\Client.Designer.cs",
+              "ToolTip": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\\uC790\uB8CC \uBAA8\uC74C\uC9D1\\\uCD5C\uC885\uCF54\uB4DC_HBsolution\\Server Client Template matching\\Client.Designer.cs",
+              "RelativeToolTip": "..\\..\\\uC790\uB8CC \uBAA8\uC74C\uC9D1\\\uCD5C\uC885\uCF54\uB4DC_HBsolution\\Server Client Template matching\\Client.Designer.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:38:44.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MySQLConn.cpp",
+              "DocumentMoniker": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\MySQLConn.cpp",
+              "RelativeDocumentMoniker": "MySQLConn.cpp",
+              "ToolTip": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\MySQLConn.cpp",
+              "RelativeToolTip": "MySQLConn.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-15T14:05:32.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DlgTab1.cpp",
+              "DocumentMoniker": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\DlgTab1.cpp",
+              "RelativeDocumentMoniker": "DlgTab1.cpp",
+              "ToolTip": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\DlgTab1.cpp",
+              "RelativeToolTip": "DlgTab1.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAcwDkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-15T14:05:32.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientSocket.cpp",
+              "DocumentMoniker": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\ClientSocket.cpp",
+              "RelativeDocumentMoniker": "ClientSocket.cpp",
+              "ToolTip": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\ClientSocket.cpp",
+              "RelativeToolTip": "ClientSocket.cpp",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAiwIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-15T14:05:32.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DlgTab2.cpp",
+              "DocumentMoniker": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\DlgTab2.cpp",
+              "RelativeDocumentMoniker": "DlgTab2.cpp",
+              "ToolTip": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\DlgTab2.cpp",
+              "RelativeToolTip": "DlgTab2.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-15T14:05:32.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logger.cpp",
+              "DocumentMoniker": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\Logger.cpp",
+              "RelativeDocumentMoniker": "Logger.cpp",
+              "ToolTip": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\Logger.cpp",
+              "RelativeToolTip": "Logger.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-15T14:05:32.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientSocket.h",
+              "DocumentMoniker": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\ClientSocket.h",
+              "RelativeDocumentMoniker": "ClientSocket.h",
+              "ToolTip": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\ClientSocket.h",
+              "RelativeToolTip": "ClientSocket.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-15T14:05:32.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServerSocket.cpp",
+              "DocumentMoniker": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\ServerSocket.cpp",
+              "RelativeDocumentMoniker": "ServerSocket.cpp",
+              "ToolTip": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\ServerSocket.cpp",
+              "RelativeToolTip": "ServerSocket.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-15T14:05:32.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HBSERVER.rc - IDD_DB_DIALOG - Dialog",
+              "DocumentMoniker": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\HBSERVER.rc",
+              "RelativeDocumentMoniker": "HBSERVER.rc",
+              "ToolTip": "C:\\Users\\jms01\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Files\\Programing\\MFC\\HB_SERVER\\HBSERVER.rc - IDD_DB_DIALOG - Dialog",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\jms01\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Files\\Programing\\MFC\\HB_SERVER\\HBSERVER.rc - IDD_DB_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002870|",
+              "WhenOpened": "2025-05-15T14:05:32.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DlgTab2.h",
+              "DocumentMoniker": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\DlgTab2.h",
+              "RelativeDocumentMoniker": "DlgTab2.h",
+              "ToolTip": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\DlgTab2.h",
+              "RelativeToolTip": "DlgTab2.h",
+              "ViewState": "AQIAABAAAAAAAAAAAAAMwCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-15T14:05:32.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DlgTab1.h",
+              "DocumentMoniker": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\DlgTab1.h",
+              "RelativeDocumentMoniker": "DlgTab1.h",
+              "ToolTip": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\DlgTab1.h",
+              "RelativeToolTip": "DlgTab1.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-15T14:05:32.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "delete_scalar_size.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\delete_scalar_size.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\delete_scalar_size.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\delete_scalar_size.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\delete_scalar_size.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T23:27:18.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HB_SERVERDlg.cpp",
+              "DocumentMoniker": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\HB_SERVERDlg.cpp",
+              "RelativeDocumentMoniker": "HB_SERVERDlg.cpp",
+              "ToolTip": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\HB_SERVERDlg.cpp",
+              "RelativeToolTip": "HB_SERVERDlg.cpp",
+              "ViewState": "AQIAAIQAAAAAAAAAAADwv5sAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-15T14:05:32.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServerSocket.h",
+              "DocumentMoniker": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\ServerSocket.h",
+              "RelativeDocumentMoniker": "ServerSocket.h",
+              "ToolTip": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\ServerSocket.h",
+              "RelativeToolTip": "ServerSocket.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-15T14:05:32.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HBSERVER.rc - IDD_MAIN_DIALOG - Dialog",
+              "DocumentMoniker": "C:\\Users\\wkdgu\\OneDrive\\Desktop\\merged_project\\HB_SERVER\\HBSERVER.rc",
+              "RelativeDocumentMoniker": "HBSERVER.rc",
+              "ToolTip": "C:\\Users\\jms01\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Files\\Programing\\MFC\\HB_SERVER\\HBSERVER.rc - IDD_MAIN_DIALOG - Dialog",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\jms01\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Files\\Programing\\MFC\\HB_SERVER\\HBSERVER.rc - IDD_MAIN_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002870|",
+              "WhenOpened": "2025-05-15T14:05:32.969Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

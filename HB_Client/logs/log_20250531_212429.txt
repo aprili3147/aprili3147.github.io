@@ -1,0 +1,18 @@
+[2025-05-31 21:24:29] [Client Log] [DEBUG] Create log file
+[2025-05-31 21:24:29] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-05-31 21:24:32] [Client Log] [DEBUG] Bright [increase], Current Brightness : 1
+[2025-05-31 21:24:32] [Client Log] [DEBUG] Bright [increase], Current Brightness : 2
+[2025-05-31 21:24:32] [Client Log] [DEBUG] Bright [increase], Current Brightness : 3
+[2025-05-31 21:24:32] [Client Log] [DEBUG] Bright [increase], Current Brightness : 4
+[2025-05-31 21:24:33] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 3
+[2025-05-31 21:24:33] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 2
+[2025-05-31 21:24:34] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 1
+[2025-05-31 21:24:36] [Client Log] [DEBUG] Bright [decrease], Current Brightness : 0
+[2025-05-31 21:26:30] [Client Log] [DEBUG] Before image upload
+[2025-05-31 21:26:36] [Client Log] [DEBUG] Receive Target size : 12777
+[2025-05-31 21:26:36] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-05-31 21:26:36] [Client Log] [DEBUG] Receive Server Data!
+[2025-05-31 21:29:15] [Client Log] [DEBUG] Receive Target size : 12777
+[2025-05-31 21:29:15] [Client Log] [DEBUG] Receive Option : Match_Contours
+[2025-05-31 21:29:15] [Client Log] [DEBUG] Receive Server Data!
+[2025-05-31 21:34:59] [Client Log] [INFO] Shutting down the client programme

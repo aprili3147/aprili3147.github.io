@@ -1,0 +1,27 @@
+[2025-05-06 00:44:42] [DEBUG] Create log file
+[2025-05-06 00:44:42] [DEBUG] DB Connect!
+[2025-05-06 00:45:00] [INFO] Listening Server. IP : 192.168.111.1, PORT : 123
+[2025-05-06 00:45:02] [INFO] Connect Client : -177377776
+[2025-05-06 00:45:10] [DEBUG] Send Data Successful!
+[2025-05-06 00:45:48] [DEBUG] Receive Before size : 282353
+[2025-05-06 00:45:48] [DEBUG] Receive After size : 243682
+[2025-05-06 00:45:48] [DEBUG] Receive Log size : 754
+[2025-05-06 00:45:48] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-05-06 00:45:02] [Client Log] [DEBUG] Create log file
+[2025-05-06 00:45:02] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-05-06 00:45:10] [Client Log] [DEBUG] Receive Target size : 56029
+[2025-05-06 00:45:10] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-05-06 00:45:10] [Client Log] [DEBUG] Receive Server Data!
+[2025-05-06 00:45:15] [Client Log] [DEBUG] Before image upload
+[2025-05-06 00:45:24] [Client Log] [DEBUG] Edge Matching execution time: 159.35 ms
+[2025-05-06 00:45:28] [Client Log] [DEBUG] Contour Matching execution time: 17.30 ms
+[2025-05-06 00:45:33] [Client Log] [DEBUG] YOLO Matching execution time: 1700.58 ms
+[2025-05-06 00:45:37] [Client Log] [DEBUG] ORB Matching execution time: 720.39 ms
+
+**********************
+
+[2025-05-06 00:45:53] [INFO] DB Save Success!
+[2025-05-06 00:46:21] [INFO] Disconnect Client : -179264552
+[2025-05-06 00:46:25] [INFO] Shutting down the server programme

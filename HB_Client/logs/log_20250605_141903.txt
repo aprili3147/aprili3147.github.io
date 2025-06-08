@@ -1,0 +1,25 @@
+[2025-06-05 14:19:03] [Client Log] [DEBUG] Create log file
+[2025-06-05 14:19:03] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-06-05 14:19:06] [Client Log] [INFO]  camera grabbing start. 
+[2025-06-05 14:19:11] [Client Log] [DEBUG] Bright [increase], Current Brightness : 1
+[2025-06-05 14:19:12] [Client Log] [DEBUG] Bright [increase], Current Brightness : 2
+[2025-06-05 14:19:12] [Client Log] [DEBUG] Bright [increase], Current Brightness : 3
+[2025-06-05 14:19:12] [Client Log] [DEBUG] Bright [increase], Current Brightness : 4
+[2025-06-05 14:19:13] [Client Log] [DEBUG] Bright [increase], Current Brightness : 5
+[2025-06-05 14:19:13] [Client Log] [DEBUG] Bright [increase], Current Brightness : 6
+[2025-06-05 14:19:13] [Client Log] [DEBUG] Bright [increase], Current Brightness : 7
+[2025-06-05 14:19:13] [Client Log] [DEBUG] Bright [increase], Current Brightness : 8
+[2025-06-05 14:19:13] [Client Log] [DEBUG] Bright [increase], Current Brightness : 9
+[2025-06-05 14:19:13] [Client Log] [DEBUG] Bright [increase], Current Brightness : 10
+[2025-06-05 14:19:14] [Client Log] [DEBUG] Bright [increase], Current Brightness : 11
+[2025-06-05 14:19:14] [Client Log] [DEBUG] Bright [increase], Current Brightness : 12
+[2025-06-05 14:19:14] [Client Log] [DEBUG] Bright [increase], Current Brightness : 13
+[2025-06-05 14:19:14] [Client Log] [DEBUG] Bright [increase], Current Brightness : 14
+[2025-06-05 14:19:14] [Client Log] [DEBUG] Bright [increase], Current Brightness : 15
+[2025-06-05 14:19:15] [Client Log] [DEBUG] Bright [increase], Current Brightness : 16
+[2025-06-05 14:19:15] [Client Log] [DEBUG] Bright [increase], Current Brightness : 17
+[2025-06-05 14:19:15] [Client Log] [DEBUG] Bright [increase], Current Brightness : 18
+[2025-06-05 14:19:16] [Client Log] [DEBUG] Bright [increase], Current Brightness : 19
+[2025-06-05 14:19:17] [Client Log] [DEBUG] Bright [increase], Current Brightness : 20
+[2025-06-05 14:19:17] [Client Log] [DEBUG] Bright [increase], Current Brightness : 21
+[2025-06-05 14:19:18] [Client Log] [INFO] Shutting down the client programme

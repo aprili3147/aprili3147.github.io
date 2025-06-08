@@ -1,0 +1,13 @@
+[2025-06-05 14:43:14] [Client Log] [DEBUG] Create log file
+[2025-06-05 14:43:14] [Client Log] [INFO] Connect Server. IP : 169.254.174.137, PORT : 123
+[2025-06-05 14:43:26] [Client Log] [DEBUG] Receive Target size : 21631
+[2025-06-05 14:43:26] [Client Log] [DEBUG] Receive Option : Match_Contours
+[2025-06-05 14:43:26] [Client Log] [DEBUG] Receive Server Data!
+[2025-06-05 14:43:33] [Client Log] [INFO]  camera grabbing start. 
+[2025-06-05 14:43:44] [Client Log] [DEBUG] bestBtightness: 11
+[2025-06-05 14:43:44] [Client Log] [DEBUG] similarity: 0.636612
+[2025-06-05 14:43:46] [Client Log] [DEBUG] Bright [increase], Current Brightness : 1
+[2025-06-05 14:43:48] [Client Log] [DEBUG] Bright [increase], Current Brightness : 2
+[2025-06-05 14:43:48] [Client Log] [DEBUG] Bright [increase], Current Brightness : 3
+[2025-06-05 14:43:49] [Client Log] [DEBUG] Bright [increase], Current Brightness : 4
+[2025-06-05 14:43:50] [Client Log] [INFO] Shutting down the client programme

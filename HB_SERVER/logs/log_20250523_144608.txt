@@ -1,0 +1,41 @@
+[2025-05-23 14:46:08] [DEBUG] Create log file
+[2025-05-23 14:46:08] [ERROR] Failed to connect DB!
+[2025-05-23 14:46:08] [ERROR] Failed to execute FindAll query!
+[2025-05-23 14:46:12] [INFO] Listening Server. IP : 169.254.174.137, PORT : 123
+[2025-05-23 14:46:16] [INFO] Connect Client : 1925471088
+[2025-05-23 14:46:23] [DEBUG] Send Data Successful!
+[2025-05-23 14:47:38] [INFO] Disconnect Client : 1925554424
+[2025-05-23 14:52:07] [INFO] Connect Client : 1987883872
+[2025-05-23 14:52:13] [DEBUG] Send Data Successful!
+[2025-05-23 15:34:12] [INFO] Disconnect Client : 1925905832
+[2025-05-23 15:34:18] [INFO] Connect Client : 1977067584
+[2025-05-23 15:34:23] [DEBUG] Send Data Successful!
+[2025-05-23 15:41:28] [INFO] Disconnect Client : 1925902952
+[2025-05-23 15:41:36] [INFO] Connect Client : 1977067472
+[2025-05-23 15:41:42] [DEBUG] Send Data Successful!
+[2025-05-23 15:42:05] [INFO] Disconnect Client : 1925906472
+[2025-05-23 15:43:29] [INFO] Connect Client : 1977086832
+[2025-05-23 15:43:33] [DEBUG] Send Data Successful!
+[2025-05-23 15:45:17] [INFO] Disconnect Client : 1988837304
+[2025-05-23 15:45:22] [INFO] Connect Client : 1988426640
+[2025-05-23 15:45:27] [DEBUG] Send Data Successful!
+[2025-05-23 15:46:15] [INFO] Disconnect Client : 1988351608
+[2025-05-23 15:50:55] [INFO] Connect Client : 1988426528
+[2025-05-23 15:50:58] [DEBUG] Send Data Successful!
+[2025-05-23 15:51:46] [INFO] Disconnect Client : 1988350648
+[2025-05-23 15:53:54] [INFO] Connect Client : 1988427088
+[2025-05-23 15:53:59] [DEBUG] Send Data Successful!
+[2025-05-23 15:59:27] [INFO] Disconnect Client : 1988353848
+[2025-05-23 15:59:29] [INFO] Connect Client : 1987808880
+[2025-05-23 15:59:36] [DEBUG] Send Data Successful!
+[2025-05-23 15:59:48] [INFO] Disconnect Client : 1978511864
+[2025-05-23 16:00:36] [INFO] Connect Client : 1987809440
+[2025-05-23 16:00:54] [DEBUG] Send Data Successful!
+[2025-05-23 16:03:20] [INFO] Disconnect Client : 1978511544
+[2025-05-23 16:03:27] [INFO] Connect Client : 1987808880
+[2025-05-23 16:03:29] [DEBUG] Send Data Successful!
+[2025-05-23 16:05:01] [INFO] Disconnect Client : 1978511544
+[2025-05-23 16:05:43] [INFO] Connect Client : 1987809328
+[2025-05-23 16:05:46] [DEBUG] Send Data Successful!
+[2025-05-23 16:06:38] [INFO] Disconnect Client : 1978511544
+[2025-05-23 16:06:41] [INFO] Shutting down the server programme

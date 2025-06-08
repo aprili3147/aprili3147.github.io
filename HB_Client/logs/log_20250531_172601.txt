@@ -1,0 +1,3 @@
+[2025-05-31 17:26:01] [Client Log] [DEBUG] Create log file
+[2025-05-31 17:26:01] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-05-31 17:26:16] [Client Log] [DEBUG] Bright [], Current Brightness : -858993460

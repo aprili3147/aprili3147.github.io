@@ -1,0 +1,11 @@
+[2025-06-05 12:52:08] [DEBUG] Create log file
+[2025-06-05 12:52:08] [DEBUG] DB Connect!
+[2025-06-05 12:52:12] [INFO] Listening Server. IP : 192.168.111.1, PORT : 123
+[2025-06-05 12:57:47] [INFO] Connect Client : -1354267856
+[2025-06-05 12:57:54] [INFO] Disconnect Client : -1354190376
+[2025-06-05 13:01:25] [INFO] Connect Client : -1354266624
+[2025-06-05 13:01:41] [DEBUG] Send Data Successful!
+[2025-06-05 13:02:56] [INFO] Disconnect Client : -1354186648
+[2025-06-05 13:03:09] [INFO] Connect Client : -1353086848
+[2025-06-05 13:04:04] [INFO] Disconnect Client : -1351309112
+[2025-06-05 13:05:33] [INFO] Shutting down the server programme

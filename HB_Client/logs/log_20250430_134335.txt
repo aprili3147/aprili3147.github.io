@@ -1,0 +1,15 @@
+[2025-04-30 13:43:35] [Client Log] [DEBUG] Create log file
+[2025-04-30 13:43:35] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-30 13:43:44] [Client Log] [DEBUG] Receive Target size : 56029
+[2025-04-30 13:43:44] [Client Log] [DEBUG] Receive Option : Match_YOLO
+[2025-04-30 13:43:44] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-30 13:43:48] [Client Log] [DEBUG] Before image upload
+[2025-04-30 13:43:59] [Client Log] [DEBUG] YOLO Matching execution time: 1449.39 ms
+[2025-04-30 13:44:38] [Client Log] [DEBUG] Receive Target size : 56029
+[2025-04-30 13:44:38] [Client Log] [DEBUG] Receive Option : Match_ORB
+[2025-04-30 13:44:38] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-30 13:44:44] [Client Log] [DEBUG] ORB Matching execution time: 539.55 ms
+[2025-04-30 13:46:55] [Client Log] [DEBUG] Before image upload
+[2025-04-30 13:46:58] [Client Log] [DEBUG] ORB Matching execution time: 161.93 ms
+[2025-04-30 14:11:42] [Client Log] [DEBUG] Server Disconnect!
+[2025-04-30 14:11:44] [Client Log] [INFO] Shutting down the client programme

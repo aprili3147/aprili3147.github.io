@@ -1,0 +1,6 @@
+[2025-06-05 14:28:45] [Client Log] [DEBUG] Create log file
+[2025-06-05 14:28:45] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-06-05 14:28:54] [Client Log] [DEBUG] Receive Target size : 21631
+[2025-06-05 14:28:54] [Client Log] [DEBUG] Receive Option : Match_Contours
+[2025-06-05 14:28:54] [Client Log] [DEBUG] Receive Server Data!
+[2025-06-05 14:29:06] [Client Log] [INFO]  camera grabbing start. 

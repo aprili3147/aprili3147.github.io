@@ -1,0 +1,113 @@
+[2025-04-29 23:16:00] [DEBUG] Create log file
+[2025-04-29 23:16:00] [DEBUG] DB Connect!
+[2025-04-29 23:16:02] [INFO] Listening Server. IP : 192.168.111.1, PORT : 123
+[2025-04-29 23:16:05] [INFO] Connect Client : -1446542640
+[2025-04-29 23:16:57] [DEBUG] Send Data Successful!
+[2025-04-29 23:17:35] [DEBUG] Receive Before size : 305484
+[2025-04-29 23:17:35] [DEBUG] Receive After size : 305484
+[2025-04-29 23:17:35] [DEBUG] Receive Log size : 641
+[2025-04-29 23:17:35] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-29 23:16:05] [Client Log] [DEBUG] Create log file
+[2025-04-29 23:16:05] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-29 23:16:21] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:16:57] [Client Log] [DEBUG] Receive Target size : 2864
+[2025-04-29 23:16:57] [Client Log] [DEBUG] Receive Option : Match_YOLO
+[2025-04-29 23:16:57] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-29 23:17:13] [Client Log] [DEBUG] Edge Matching execution time: 44.19 ms
+[2025-04-29 23:17:17] [Client Log] [DEBUG] Contour Matching execution time: 5.92 ms
+[2025-04-29 23:17:27] [Client Log] [DEBUG] Before image upload
+
+**********************
+
+[2025-04-29 23:18:16] [DEBUG] Receive Before size : 305484
+[2025-04-29 23:18:16] [DEBUG] Receive After size : 305484
+[2025-04-29 23:18:16] [DEBUG] Receive Log size : 715
+[2025-04-29 23:18:16] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-29 23:16:05] [Client Log] [DEBUG] Create log file
+[2025-04-29 23:16:05] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-29 23:16:21] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:16:57] [Client Log] [DEBUG] Receive Target size : 2864
+[2025-04-29 23:16:57] [Client Log] [DEBUG] Receive Option : Match_YOLO
+[2025-04-29 23:16:57] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-29 23:17:13] [Client Log] [DEBUG] Edge Matching execution time: 44.19 ms
+[2025-04-29 23:17:17] [Client Log] [DEBUG] Contour Matching execution time: 5.92 ms
+[2025-04-29 23:17:27] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:17:35] [Client Log] [DEBUG] Send data to server successful
+
+**********************
+
+[2025-04-29 23:18:55] [DEBUG] Receive Before size : 305484
+[2025-04-29 23:18:55] [DEBUG] Receive After size : 189918
+[2025-04-29 23:18:55] [DEBUG] Receive Log size : 871
+[2025-04-29 23:18:55] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-29 23:16:05] [Client Log] [DEBUG] Create log file
+[2025-04-29 23:16:05] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-29 23:16:21] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:16:57] [Client Log] [DEBUG] Receive Target size : 2864
+[2025-04-29 23:16:57] [Client Log] [DEBUG] Receive Option : Match_YOLO
+[2025-04-29 23:16:57] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-29 23:17:13] [Client Log] [DEBUG] Edge Matching execution time: 44.19 ms
+[2025-04-29 23:17:17] [Client Log] [DEBUG] Contour Matching execution time: 5.92 ms
+[2025-04-29 23:17:27] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:17:35] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:18:16] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:18:52] [Client Log] [DEBUG] Edge Matching execution time: 70.63 ms
+
+**********************
+
+[2025-04-29 23:19:09] [DEBUG] Receive Before size : 25969
+[2025-04-29 23:19:09] [DEBUG] Receive After size : 189918
+[2025-04-29 23:19:09] [DEBUG] Receive Log size : 1008
+[2025-04-29 23:19:09] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-29 23:16:05] [Client Log] [DEBUG] Create log file
+[2025-04-29 23:16:05] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-29 23:16:21] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:16:57] [Client Log] [DEBUG] Receive Target size : 2864
+[2025-04-29 23:16:57] [Client Log] [DEBUG] Receive Option : Match_YOLO
+[2025-04-29 23:16:57] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-29 23:17:13] [Client Log] [DEBUG] Edge Matching execution time: 44.19 ms
+[2025-04-29 23:17:17] [Client Log] [DEBUG] Contour Matching execution time: 5.92 ms
+[2025-04-29 23:17:27] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:17:35] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:18:16] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:18:52] [Client Log] [DEBUG] Edge Matching execution time: 70.63 ms
+[2025-04-29 23:18:55] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:19:06] [Client Log] [DEBUG] Before image upload
+
+**********************
+
+[2025-04-29 23:19:15] [DEBUG] Receive Before size : 25969
+[2025-04-29 23:19:15] [DEBUG] Receive After size : 24957
+[2025-04-29 23:19:15] [DEBUG] Receive Log size : 1166
+[2025-04-29 23:19:15] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-29 23:16:05] [Client Log] [DEBUG] Create log file
+[2025-04-29 23:16:05] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-29 23:16:21] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:16:57] [Client Log] [DEBUG] Receive Target size : 2864
+[2025-04-29 23:16:57] [Client Log] [DEBUG] Receive Option : Match_YOLO
+[2025-04-29 23:16:57] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-29 23:17:13] [Client Log] [DEBUG] Edge Matching execution time: 44.19 ms
+[2025-04-29 23:17:17] [Client Log] [DEBUG] Contour Matching execution time: 5.92 ms
+[2025-04-29 23:17:27] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:17:35] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:18:16] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:18:52] [Client Log] [DEBUG] Edge Matching execution time: 70.63 ms
+[2025-04-29 23:18:55] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:19:06] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:19:09] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:19:14] [Client Log] [DEBUG] Contour Matching execution time: 6.50 ms
+
+**********************
+
+[2025-04-29 23:19:39] [INFO] Disconnect Client : -1446850232
+[2025-04-29 23:19:39] [INFO] Shutting down the server programme

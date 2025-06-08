@@ -1,0 +1,8 @@
+[2025-04-13 09:11:00] [Client Log] [DEBUG] Create log file
+[2025-04-13 09:11:00] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-13 09:11:10] [Client Log] [DEBUG] Receive Target size : 20059
+[2025-04-13 09:11:10] [Client Log] [DEBUG] Receive Option : Num 2
+[2025-04-13 09:11:10] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-13 09:11:13] [Client Log] [DEBUG] Send data to server successful
+[2025-04-13 09:11:26] [Client Log] [DEBUG] Server Disconnect!
+[2025-04-13 09:11:27] [Client Log] [INFO] Shutting down the client programme

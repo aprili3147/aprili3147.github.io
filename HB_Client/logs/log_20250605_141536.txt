@@ -1,0 +1,12 @@
+[2025-06-05 14:15:36] [Client Log] [DEBUG] Create log file
+[2025-06-05 14:15:36] [Client Log] [WARNING] Connection refused: The server is not running or the port is closed.
+[2025-06-05 14:15:43] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-06-05 14:16:37] [Client Log] [INFO]  camera grabbing start. 
+[2025-06-05 14:16:38] [Client Log] [DEBUG] Bright [increase], Current Brightness : 1
+[2025-06-05 14:16:38] [Client Log] [DEBUG] Bright [increase], Current Brightness : 2
+[2025-06-05 14:16:38] [Client Log] [DEBUG] Bright [increase], Current Brightness : 3
+[2025-06-05 14:16:39] [Client Log] [DEBUG] Bright [increase], Current Brightness : 4
+[2025-06-05 14:16:39] [Client Log] [DEBUG] Bright [increase], Current Brightness : 5
+[2025-06-05 14:16:39] [Client Log] [DEBUG] Bright [increase], Current Brightness : 6
+[2025-06-05 14:16:39] [Client Log] [DEBUG] Bright [increase], Current Brightness : 7
+[2025-06-05 14:18:51] [Client Log] [INFO] Shutting down the client programme

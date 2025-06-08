@@ -1,0 +1,4 @@
+[2025-06-05 14:29:46] [Client Log] [DEBUG] Create log file
+[2025-06-05 14:29:46] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-06-05 14:29:55] [Client Log] [DEBUG] Server Disconnect!
+[2025-06-05 14:29:56] [Client Log] [INFO] Shutting down the client programme

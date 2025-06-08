@@ -1,0 +1,19 @@
+[2025-04-18 11:24:48] [Client Log] [DEBUG] Create log file
+[2025-04-18 11:24:48] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-18 11:24:53] [Client Log] [DEBUG] Receive Target size : 2864
+[2025-04-18 11:24:53] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-04-18 11:24:53] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-18 11:27:09] [Client Log] [DEBUG] Send data to server successful
+[2025-04-18 11:28:18] [Client Log] [DEBUG] Receive Target size : 3289
+[2025-04-18 11:28:18] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-04-18 11:28:18] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-18 11:28:47] [Client Log] [DEBUG] Receive Target size : 20059
+[2025-04-18 11:28:47] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-04-18 11:28:47] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-18 11:29:04] [Client Log] [DEBUG] Receive Target size : 3289
+[2025-04-18 11:29:05] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-04-18 11:29:05] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-18 11:30:20] [Client Log] [DEBUG] Receive Target size : 2864
+[2025-04-18 11:30:20] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-04-18 11:30:21] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-18 11:30:29] [Client Log] [INFO] Shutting down the client programme

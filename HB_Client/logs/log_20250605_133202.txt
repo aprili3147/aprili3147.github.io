@@ -1,0 +1,25 @@
+[2025-06-05 13:32:02] [Client Log] [DEBUG] Create log file
+[2025-06-05 13:32:02] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-06-05 13:32:05] [Client Log] [DEBUG] Receive Target size : 21631
+[2025-06-05 13:32:05] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-06-05 13:32:05] [Client Log] [DEBUG] Receive Server Data!
+[2025-06-05 13:32:12] [Client Log] [INFO]  camera grabbing start. 
+[2025-06-05 13:32:15] [Client Log] [INFO] similarity: -0.013668
+[2025-06-05 13:32:15] [Client Log] [DEBUG] bestBtightness: 0
+[2025-06-05 13:32:16] [Client Log] [INFO] similarity: -0.013662
+[2025-06-05 13:32:16] [Client Log] [DEBUG] bestBtightness: 1
+[2025-06-05 13:32:16] [Client Log] [INFO] similarity: -0.013664
+[2025-06-05 13:32:17] [Client Log] [INFO] similarity: -0.013665
+[2025-06-05 13:32:17] [Client Log] [INFO] similarity: -0.013663
+[2025-06-05 13:32:17] [Client Log] [INFO] similarity: -0.013427
+[2025-06-05 13:32:17] [Client Log] [DEBUG] bestBtightness: 5
+[2025-06-05 13:32:18] [Client Log] [INFO] similarity: -0.015673
+[2025-06-05 13:32:18] [Client Log] [INFO] similarity: -0.014875
+[2025-06-05 13:32:18] [Client Log] [INFO] similarity: -0.021535
+[2025-06-05 13:32:19] [Client Log] [INFO] similarity: -0.024757
+[2025-06-05 13:32:19] [Client Log] [INFO] similarity: 0.159494
+[2025-06-05 13:32:19] [Client Log] [DEBUG] bestBtightness: 10
+[2025-06-05 13:32:19] [Client Log] [INFO] similarity: 0.638399
+[2025-06-05 13:32:20] [Client Log] [DEBUG] bestBtightness: 11
+[2025-06-05 13:32:20] [Client Log] [INFO] similarity: 0.249961
+[2025-06-05 13:32:31] [Client Log] [INFO] Shutting down the client programme

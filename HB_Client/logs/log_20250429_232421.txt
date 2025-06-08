@@ -1,0 +1,12 @@
+[2025-04-29 23:24:21] [Client Log] [DEBUG] Create log file
+[2025-04-29 23:24:21] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-29 23:24:24] [Client Log] [DEBUG] Receive Target size : 2698
+[2025-04-29 23:24:24] [Client Log] [DEBUG] Receive Option : Match_YOLO
+[2025-04-29 23:24:24] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-29 23:24:28] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:24:33] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:25:22] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:25:27] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:25:40] [Client Log] [DEBUG] Before image upload
+[2025-04-29 23:25:44] [Client Log] [DEBUG] Send data to server successful
+[2025-04-29 23:26:34] [Client Log] [INFO] Shutting down the client programme

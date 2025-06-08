@@ -1,0 +1,8 @@
+[2025-04-23 10:29:36] [Client Log] [DEBUG] Create log file
+[2025-04-23 10:29:36] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-23 10:29:43] [Client Log] [DEBUG] Receive Target size : 3289
+[2025-04-23 10:29:43] [Client Log] [DEBUG] Receive Option : Match_Contours
+[2025-04-23 10:29:43] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-23 10:29:56] [Client Log] [DEBUG] Before image upload
+[2025-04-23 10:30:03] [Client Log] [DEBUG] Contour Matching execution time: 19.96 ms
+[2025-04-23 12:58:13] [Client Log] [INFO] Shutting down the client programme

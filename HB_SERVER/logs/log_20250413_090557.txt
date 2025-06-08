@@ -1,0 +1,23 @@
+[2025-04-13 09:05:57] [DEBUG] Create log file
+[2025-04-13 09:05:57] [DEBUG] DB Connect!
+[2025-04-13 09:05:58] [INFO] Listening Server. IP : 192.168.77.1, PORT : 123
+[2025-04-13 09:06:02] [INFO] Connect Client : 1621689920
+[2025-04-13 09:06:04] [WARNING] Server full!
+[2025-04-13 09:06:15] [DEBUG] Send Data Successful!
+[2025-04-13 09:06:17] [DEBUG] Receive Before size : 2698
+[2025-04-13 09:06:17] [DEBUG] Receive After size : 2698
+[2025-04-13 09:06:17] [DEBUG] Receive Log size : 344
+[2025-04-13 09:06:17] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-13 09:06:02] [Client Log] [DEBUG] Create log file
+[2025-04-13 09:06:02] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-13 09:06:15] [Client Log] [DEBUG] Receive Target size : 2698
+[2025-04-13 09:06:15] [Client Log] [DEBUG] Receive Option : Num 2
+[2025-04-13 09:06:15] [Client Log] [DEBUG] Receive Server Data!
+
+**********************
+
+[2025-04-13 09:06:19] [INFO] DB Save Success!
+[2025-04-13 09:06:25] [DEBUG] DELETE data id : 84
+[2025-04-13 09:06:26] [INFO] Shutting down the server programme

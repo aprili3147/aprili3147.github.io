@@ -1,0 +1,6 @@
+[2025-05-21 22:23:17] [Client Log] [DEBUG] Create log file
+[2025-05-21 22:23:17] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-05-21 22:23:21] [Client Log] [DEBUG] Receive Target size : 2698
+[2025-05-21 22:23:21] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-05-21 22:23:21] [Client Log] [DEBUG] Receive Server Data!
+[2025-05-21 22:24:13] [Client Log] [INFO] Shutting down the client programme

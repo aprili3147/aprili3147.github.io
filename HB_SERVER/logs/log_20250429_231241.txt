@@ -1,0 +1,21 @@
+[2025-04-29 23:12:41] [DEBUG] Create log file
+[2025-04-29 23:12:41] [DEBUG] DB Connect!
+[2025-04-29 23:12:52] [INFO] Listening Server. IP : 192.168.111.1, PORT : 123
+[2025-04-29 23:13:09] [INFO] Connect Client : 610303856
+[2025-04-29 23:13:12] [DEBUG] Send Data Successful!
+[2025-04-29 23:13:25] [DEBUG] Receive Before size : 307185
+[2025-04-29 23:13:25] [DEBUG] Receive After size : 307185
+[2025-04-29 23:13:25] [DEBUG] Receive Log size : 412
+[2025-04-29 23:13:26] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-29 23:13:09] [Client Log] [DEBUG] Create log file
+[2025-04-29 23:13:09] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-29 23:13:12] [Client Log] [DEBUG] Receive Target size : 2864
+[2025-04-29 23:13:12] [Client Log] [DEBUG] Receive Option : Match_YOLO
+[2025-04-29 23:13:12] [Client Log] [DEBUG] Receive Server Data!
+[2025-04-29 23:13:19] [Client Log] [DEBUG] Before image upload
+
+**********************
+
+[2025-04-29 23:13:32] [INFO] Shutting down the server programme

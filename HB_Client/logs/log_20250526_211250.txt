@@ -1,0 +1,11 @@
+[2025-05-26 21:12:50] [Client Log] [DEBUG] Create log file
+[2025-05-26 21:12:50] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-05-26 21:12:51] [Client Log] [DEBUG] Receive Target size : 56029
+[2025-05-26 21:12:51] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-05-26 21:12:51] [Client Log] [DEBUG] Receive Server Data!
+[2025-05-26 21:12:58] [Client Log] [DEBUG] Before image upload
+[2025-05-26 21:12:59] [Client Log] [DEBUG] Edge Matching execution time: 56.75 ms, 
+Matching similarity: 99.54%
+[2025-05-26 21:13:01] [Client Log] [DEBUG] Send data to server successful
+[2025-05-26 21:13:09] [Client Log] [DEBUG] Server Disconnect!
+[2025-05-26 21:13:10] [Client Log] [INFO] Shutting down the client programme

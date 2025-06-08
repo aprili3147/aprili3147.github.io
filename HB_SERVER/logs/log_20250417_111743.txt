@@ -1,0 +1,38 @@
+[2025-04-17 11:17:43] [DEBUG] Create log file
+[2025-04-17 11:17:43] [DEBUG] DB Connect!
+[2025-04-17 11:17:47] [INFO] Listening Server. IP : 192.168.111.1, PORT : 123
+[2025-04-17 11:17:52] [INFO] Connect Client : -856918752
+[2025-04-17 11:18:01] [DEBUG] Send Data Successful!
+[2025-04-17 11:18:20] [DEBUG] Receive Before size : 25969
+[2025-04-17 11:18:20] [DEBUG] Receive After size : 22054
+[2025-04-17 11:18:20] [DEBUG] Receive Log size : 356
+[2025-04-17 11:18:20] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-17 11:17:52] [Client Log] [DEBUG] Create log file
+[2025-04-17 11:17:52] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-17 11:18:01] [Client Log] [DEBUG] Receive Target size : 2864
+[2025-04-17 11:18:01] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-04-17 11:18:01] [Client Log] [DEBUG] Receive Server Data!
+
+**********************
+
+[2025-04-17 11:18:23] [INFO] Disconnect Client : -856883208
+[2025-04-17 11:18:37] [INFO] Connect Client : -795888064
+[2025-04-17 11:18:48] [DEBUG] Send Data Successful!
+[2025-04-17 11:19:01] [DEBUG] Receive Before size : 25969
+[2025-04-17 11:19:01] [DEBUG] Receive After size : 22054
+[2025-04-17 11:19:01] [DEBUG] Receive Log size : 356
+[2025-04-17 11:19:01] [DEBUG] Receive Client Data!
+
+***** Client Log *****
+[2025-04-17 11:18:37] [Client Log] [DEBUG] Create log file
+[2025-04-17 11:18:37] [Client Log] [INFO] Connect Server. IP : 127.0.0.1, PORT : 123
+[2025-04-17 11:18:48] [Client Log] [DEBUG] Receive Target size : 2864
+[2025-04-17 11:18:48] [Client Log] [DEBUG] Receive Option : Match_Edge_Simple
+[2025-04-17 11:18:48] [Client Log] [DEBUG] Receive Server Data!
+
+**********************
+
+[2025-04-17 11:19:04] [INFO] DB Save Success!
+[2025-04-17 11:19:07] [INFO] Shutting down the server programme
