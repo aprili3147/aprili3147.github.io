@@ -24,3 +24,5 @@
 Thumbs.db
 ehthumbs.db
 desktop.ini
+*.pdb
+build/
