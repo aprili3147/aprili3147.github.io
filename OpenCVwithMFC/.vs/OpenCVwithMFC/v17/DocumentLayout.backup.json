@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MFC\\OpenCVwithMFC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9750E6-D53C-4244-B13E-E356F925C0D2}|OpenCVwithMFC.vcxproj|C:\\MFC\\OpenCVwithMFC\\OpenCVwithMFCDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA9750E6-D53C-4244-B13E-E356F925C0D2}|OpenCVwithMFC.vcxproj|solutionrelative:OpenCVwithMFCDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9750E6-D53C-4244-B13E-E356F925C0D2}|OpenCVwithMFC.vcxproj|C:\\MFC\\OpenCVwithMFC\\OpenCVwithMFCDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA9750E6-D53C-4244-B13E-E356F925C0D2}|OpenCVwithMFC.vcxproj|solutionrelative:OpenCVwithMFCDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9750E6-D53C-4244-B13E-E356F925C0D2}|OpenCVwithMFC.vcxproj|C:\\MFC\\OpenCVwithMFC\\OpenCVwithMFC.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{BA9750E6-D53C-4244-B13E-E356F925C0D2}|OpenCVwithMFC.vcxproj|solutionrelative:OpenCVwithMFC.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     "
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenCVwithMFCDlg.cpp",
+              "DocumentMoniker": "C:\\MFC\\OpenCVwithMFC\\OpenCVwithMFCDlg.cpp",
+              "RelativeDocumentMoniker": "OpenCVwithMFCDlg.cpp",
+              "ToolTip": "C:\\MFC\\OpenCVwithMFC\\OpenCVwithMFCDlg.cpp",
+              "RelativeToolTip": "OpenCVwithMFCDlg.cpp",
+              "ViewState": "AgIAAC0CAAAAAAAAAADgv0ACAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T04:00:05.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenCVwithMFCDlg.h",
+              "DocumentMoniker": "C:\\MFC\\OpenCVwithMFC\\OpenCVwithMFCDlg.h",
+              "RelativeDocumentMoniker": "OpenCVwithMFCDlg.h",
+              "ToolTip": "C:\\MFC\\OpenCVwithMFC\\OpenCVwithMFCDlg.h",
+              "RelativeToolTip": "OpenCVwithMFCDlg.h",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-17T04:00:05.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OpenCVwithMFC.rc - IDD_OPENCVWITHMFC_DIALOG - Dialog",
+              "DocumentMoniker": "C:\\MFC\\OpenCVwithMFC\\OpenCVwithMFC.rc",
+              "RelativeDocumentMoniker": "OpenCVwithMFC.rc",
+              "ToolTip": "C:\\exCS\\OpenCVwithMFC\\OpenCVwithMFC.rc - IDD_OPENCVWITHMFC_DIALOG - Dialog",
+              "RelativeToolTip": "..\\..\\exCS\\OpenCVwithMFC\\OpenCVwithMFC.rc - IDD_OPENCVWITHMFC_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002870|",
+              "WhenOpened": "2025-04-17T04:00:05.562Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
